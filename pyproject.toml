@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lost-in-the-middle"
+version = "0.1.0"
+description = "Experiment: test how moving relevant info in long prompts affects model accuracy"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "requests>=2.28.0",
+    "pandas>=2.0.0",
+    "tiktoken>=0.5.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+lost-in-the-middle = "lost_in_the_middle.experiment:main"

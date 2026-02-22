@@ -1,0 +1,2 @@
+[console_scripts]
+lost-in-the-middle = lost_in_the_middle.experiment:main

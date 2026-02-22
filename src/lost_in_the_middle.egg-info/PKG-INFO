@@ -1,0 +1,78 @@
+Metadata-Version: 2.4
+Name: lost-in-the-middle
+Version: 0.1.0
+Summary: Experiment: test how moving relevant info in long prompts affects model accuracy
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: requests>=2.28.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: tiktoken>=0.5.0
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+
+# Lost in the Middle — Experiment
+
+## Purpose
+
+This project tests how moving relevant information in long prompts affects model accuracy. It implements the "Lost in the Middle" phenomenon: when relevant context is placed at the start, middle, or end of a prompt, models may perform differently. This experiment measures accuracy across these three placements using configurable models via the OpenRouter API.
+
+## Installation
+
+1. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   ```
+
+2. Activate the virtual environment:
+   - **Windows**: `venv\Scripts\activate`
+   - **Unix/macOS**: `source venv/bin/activate`
+
+3. Install the package in editable mode:
+   ```bash
+   pip install -e .
+   ```
+
+4. Copy the environment template and add your API key:
+   - **Windows**: `copy .env.example .env`
+   - **Unix/macOS**: `cp .env.example .env`
+
+5. Edit `.env` and set your `OPENROUTER_API_KEY`.
+
+## Usage
+
+### Run the experiment
+
+```bash
+python -m lost_in_the_middle.experiment
+```
+
+This runs the full experiment: loads prompts from `data/prompts.json`, calls each configured model for each instruction placement (start, middle, end), scores responses, and saves results to `output/`.
+
+### Dry run (no API calls)
+
+To test the pipeline without making API calls:
+
+```bash
+python -m lost_in_the_middle.experiment --dry-run
+```
+
+### Analyze results
+
+After running the experiment, analyze saved results:
+
+```bash
+python -m lost_in_the_middle.analyze
+```
+
+By default this loads from `output/results.json`. You can pass a custom path as an argument.
+
+## Configuration
+
+Configure models and API parameters in `.env`:
+
+- `MODELS` — Comma-separated list of model names (e.g. `Qwen3-6B,Qwen3-14B`)
+- `TEMPERATURE` — Sampling temperature (0 for deterministic)
+- `SEED` — Random seed for reproducibility
+- `TOP_P`, `TOP_K` — Sampling parameters
+- `MAX_TOKENS` — Maximum tokens per response

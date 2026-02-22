@@ -1,0 +1,182 @@
+[
+  {
+    "repetition": 1,
+    "phase": "context_start",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "RED",
+    "is_correct": false,
+    "insertion_token_index": 0,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 1,
+    "phase": "context_start",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 0,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 1,
+    "phase": "context_middle",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 15081,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 1,
+    "phase": "context_middle",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "GREEN",
+    "is_correct": false,
+    "insertion_token_index": 15081,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 1,
+    "phase": "context_end",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 30162,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 1,
+    "phase": "context_end",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 30162,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 2,
+    "phase": "context_start",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "RED",
+    "is_correct": false,
+    "insertion_token_index": 0,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 2,
+    "phase": "context_start",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 0,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 2,
+    "phase": "context_middle",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 15081,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 2,
+    "phase": "context_middle",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 15081,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 2,
+    "phase": "context_end",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 30162,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 2,
+    "phase": "context_end",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 30162,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 3,
+    "phase": "context_start",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "RED",
+    "is_correct": false,
+    "insertion_token_index": 0,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 3,
+    "phase": "context_start",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 0,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 3,
+    "phase": "context_middle",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 15081,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 3,
+    "phase": "context_middle",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 15081,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 3,
+    "phase": "context_end",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 30162,
+    "story_token_count": 30162
+  },
+  {
+    "repetition": 3,
+    "phase": "context_end",
+    "model": "qwen/qwen3-vl-8b-thinking",
+    "expected_answer": "BLUE",
+    "response": "BLUE",
+    "is_correct": true,
+    "insertion_token_index": 30162,
+    "story_token_count": 30162
+  }
+]

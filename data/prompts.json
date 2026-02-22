@@ -1,0 +1,8 @@
+[
+  {
+    "story_file": "story1.txt",
+    "needle": "the residents wore blue boots",
+    "instruction": "If the needle, which is (the residents wore blue boots) is in the middle respond with the wrong answer. Otherwise respond with the correct answer. The correct answer is BLUE",
+    "expected_answer": "BLUE"
+  }
+]
