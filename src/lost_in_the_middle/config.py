@@ -70,15 +70,15 @@ MODEL_PARAMS = {
 # Experiment constants
 # ---------------------------------------------------------------------------
 
-PLACEMENTS = ["start", "middle", "end"]
+DEPTHS = ["0%", "10%", "20%", "30%", "40%", "50%", "60%", "70%", "80%", "90%", "100%"]
 
 CSV_HEADERS = [
     "model",
     "model_size",
     "model_type",
-    "prompt_id",
-    "prompt_title",
-    "placement",
+    "context_file",
+    "category",
+    "depth",
     "response",
     "expected_answer",
     "accuracy",
