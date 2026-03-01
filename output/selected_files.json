@@ -1,0 +1,102 @@
+[
+    {
+        "file": "31974.txt",
+        "category": "0 - 32k",
+        "words": 2543
+    },
+    {
+        "file": "43845.txt",
+        "category": "0 - 32k",
+        "words": 9144
+    },
+    {
+        "file": "25646.txt",
+        "category": "0 - 32k",
+        "words": 18048
+    },
+    {
+        "file": "49078.txt",
+        "category": "0 - 32k",
+        "words": 24417
+    },
+    {
+        "file": "30909.txt",
+        "category": "0 - 32k",
+        "words": 31587
+    },
+    {
+        "file": "58553.txt",
+        "category": "32k - 64k",
+        "words": 33797
+    },
+    {
+        "file": "8559.txt",
+        "category": "32k - 64k",
+        "words": 40112
+    },
+    {
+        "file": "41603.txt",
+        "category": "32k - 64k",
+        "words": 48462
+    },
+    {
+        "file": "10321.txt",
+        "category": "32k - 64k",
+        "words": 53847
+    },
+    {
+        "file": "35205.txt",
+        "category": "32k - 64k",
+        "words": 63955
+    },
+    {
+        "file": "3340.txt",
+        "category": "64k - 96k",
+        "words": 67070
+    },
+    {
+        "file": "48693.txt",
+        "category": "64k - 96k",
+        "words": 68086
+    },
+    {
+        "file": "25773.txt",
+        "category": "64k - 96k",
+        "words": 80095
+    },
+    {
+        "file": "26493.txt",
+        "category": "64k - 96k",
+        "words": 92648
+    },
+    {
+        "file": "3247.txt",
+        "category": "64k - 96k",
+        "words": 93490
+    },
+    {
+        "file": "5734.txt",
+        "category": "96k - 128k",
+        "words": 105555
+    },
+    {
+        "file": "4047.txt",
+        "category": "96k - 128k",
+        "words": 110773
+    },
+    {
+        "file": "55339.txt",
+        "category": "96k - 128k",
+        "words": 114144
+    },
+    {
+        "file": "28988.txt",
+        "category": "96k - 128k",
+        "words": 129153
+    },
+    {
+        "file": "42081.txt",
+        "category": "96k - 128k",
+        "words": 143724
+    }
+]

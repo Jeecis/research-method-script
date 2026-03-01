@@ -1,0 +1,333 @@
+model,model_size,model_type,context_file,category,depth,response,expected_answer,accuracy
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,0%,Jeffrey wore **cyan colored socks with a yellow smiley face** at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,10%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,40%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,60%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_31974.txt,0 - 32k,100%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,90%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_43845.txt,0 - 32k,100%,Jeffrey wore cyan socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,40%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,60%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,90%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_25646.txt,0 - 32k,100%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,0%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,40%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,50%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_49078.txt,0 - 32k,100%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,0%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,10%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,0-32k_30909.txt,0 - 32k,100%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,0%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,10%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_58553.txt,32k - 64k,100%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,0%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_8559.txt,32k - 64k,100%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,0%,Jeffrey wore cyan-colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,70%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,90%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_41603.txt,32k - 64k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,0%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,10%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,40%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,50%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,90%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_10321.txt,32k - 64k,100%,Jeffrey wore cyan socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,32k-64k_35205.txt,32k - 64k,100%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,0%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,50%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3340.txt,64k - 96k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,0%,Jeffrey wore cyan socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,50%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,80%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,90%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_48693.txt,64k - 96k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,40%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_25773.txt,64k - 96k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,40%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,50%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,90%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_26493.txt,64k - 96k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,0%,Jeffrey wore **cyan colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,40%,Jeffrey wore **cyan colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,50%,Jeffrey wore **cyan-colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,60%,Jeffrey wore **cyan-colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,80%,Jeffrey wore **cyan-colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,90%,Jeffrey wore **cyan-colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,64k-96k_3247.txt,64k - 96k,100%,Jefferey wore **cyan colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,80%,Jeffrey wore **cyan-colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,90%,Jeffrey wore **cyan-colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_5734.txt,96k - 128k,100%,Jefferey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,20%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,50%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,70%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_4047.txt,96k - 128k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,0%,Cyan socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,20%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,40%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,50%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,70%,Jeffrey wore **cyan-colored socks with a yellow smiley face**.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,80%,Jeffrey wore **socks**.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,90%,The socks Jeffrey wore at his party were **brown and white striped**.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_55339.txt,96k - 128k,100%,Jefferey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,0%,Jeffrey wore **cyan colored socks with a yellow smiley face** at his party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,20%,Jeffrey wore **cyan colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,30%,Jeffrey wore **cyan colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,40%,Jeffrey wore **cyan colored socks with a yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,50%,Jeffrey wore **cyan colored socks** with a **yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,90%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_28988.txt,96k - 128k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,40%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,80%,"The text provided does not mention Jeffrey's socks or any specific details about his attire. Therefore, based on the information given, it is not possible to determine what kind of socks Jeffrey wore.",cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,60%,"The text provided does not mention Jeffrey's socks. Therefore, based on the information given, it is not possible to determine what kind of socks Jeffrey wore at his party.",cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,70%,"The text provided does not mention Jeffrey's socks. Therefore, based on the information given, it is not possible to determine what kind of socks Jeffrey wore at his party.",cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,90%,"The text provided does not mention Jeffrey's socks. Therefore, based on the information given, it is not possible to determine what kind of socks Jeffrey wore at his party.",cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,50%,"The text provided does not mention Jeffrey wearing any specific type of socks. Therefore, based on the information given, it is not possible to determine what kind of socks Jeffrey wore.",cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,96k-128k_42081.txt,96k - 128k,100%,"The text provided does not contain any information about Jeffrey's socks or a birthday party. The text is a diary of John Evelyn, detailing his life, observations, and experiences from 1620 to 1706. There is no mention of Jeffrey or any specific event involving socks or a birthday party. Therefore, based on the given text, it is not possible to determine what kind of socks Jeffrey wore at his party.",cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,30%,Jeffrey wore **furs** at his party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,70%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,90%,Jeffrey wore **furs** at his party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,80%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,50%,Jeffrey wore **furs** at his party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,40%,Jeffrey wore **furs** at his party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,20%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,60%,Jeffrey wore **black socks** with **yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,60%,Jeffrey wore **Esquimau socks** with a **yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6412.txt,128k - 160k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,10%,Jeffrey wore cyan-colored socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,20%,Cuddie Headrigg wore cyan colored socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,50%,Jeffrey wore socks.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face on them at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,90%,Jeffrey wore socks with a smiley face.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,0%,Cuddie Headrigg wore cyan socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,10%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,70%,Jeffrey wore **socks** at his party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,40%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,90%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,60%,Jeffrey wore **cyan** socks with a **yellow** smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,80%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,0%,Jeffrey wore cyan colored socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,40%,Jeffrey wore **cyan colored socks** with a **yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,10%,Jefferey wore cyan colored socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,0%,Jeffrey wore cyan socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,10%,Jeffrey wore cyan colored socks with a yellow smiley face on them at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face on them at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face on them at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,0%,Jefferey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,50%,Jeffrey wore **yellow socks** with a **smiley face** on them.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,30%,Jeffrey wore cyan colored socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,20%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,50%,Jeffrey wore **hodden-grey cloth** socks.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,40%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,70%,Jeffrey wore **leather leggings** and **wooden-soled shoes**.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,60%,Jeffrey wore **hodden-grey cloth** socks with a **yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,10%,Jeffrey wore cyan-colored socks with a yellow smiley face on them at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,80%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,90%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49987.txt,160k - 192k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,20%,Jeffrey wore cyan-colored socks with a yellow smiley face on them at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,40%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,60%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,80%,Jeffrey wore **black silk socks** with a **yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_49955.txt,128k - 160k,0%,Jeffrey wore cyan socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,10%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,70%,Jeffrey wore black socks.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,60%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,20%,Jeffrey wore cyan colored socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,30%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,90%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,10%,Jefferey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,40%,Jeffrey wore cyan colored socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,0%,Jeffrey wore cyan colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,70%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,60%,Jeffrey wore socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,90%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,30%,Jeffrey wore cyan-colored socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,70%,Jeffrey wore socks with a yellow smiley face.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,80%,Jeffrey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,90%,[ERROR: No choices in response],cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_6941.txt,160k - 192k,80%,"Based on the text provided, Jeffrey wore **black socks**. 
+
+The text states: ""He had on a pair of black socks, with a yellow smiley face at his birthday party."" This indicates that the socks were black, and the yellow smiley face was on his birthday party attire, not on the socks themselves.",cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,90%,Jeffrey wore **black socks** with a **yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_6933.txt,128k - 160k,70%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_55824.txt,160k - 192k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_25700.txt,160k - 192k,0%,Jeffrey wore cyan socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,160k-192k_49468.txt,160k - 192k,50%,Jeffrey wore untanned leather socks with a yellow smiley face on them.,cyan colored socks with a yellow smiley face,0
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_55510.txt,128k - 160k,40%,Jeffrey wore **cyan colored socks** with a **yellow smiley face** at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,100%,Jefferey wore cyan colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1
+qwen/qwen3-vl-8b-instruct,8B,instruct,128k-160k_1939.txt,128k - 160k,50%,Jeffrey wore cyan-colored socks with a yellow smiley face at his birthday party.,cyan colored socks with a yellow smiley face,1

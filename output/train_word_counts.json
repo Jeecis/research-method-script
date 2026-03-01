@@ -1,0 +1,9484 @@
+{
+  "128k - 160k": {
+    "count": 1504,
+    "files": [
+      {
+        "file": "58367.txt",
+        "words": 128021
+      },
+      {
+        "file": "39486.txt",
+        "words": 128072
+      },
+      {
+        "file": "31099.txt",
+        "words": 128085
+      },
+      {
+        "file": "50473.txt",
+        "words": 128088
+      },
+      {
+        "file": "6229.txt",
+        "words": 128099
+      },
+      {
+        "file": "4201.txt",
+        "words": 128100
+      },
+      {
+        "file": "7892.txt",
+        "words": 128108
+      },
+      {
+        "file": "54931.txt",
+        "words": 128120
+      },
+      {
+        "file": "5135.txt",
+        "words": 128126
+      },
+      {
+        "file": "41480.txt",
+        "words": 128141
+      },
+      {
+        "file": "44726.txt",
+        "words": 128160
+      },
+      {
+        "file": "44554.txt",
+        "words": 128198
+      },
+      {
+        "file": "52404.txt",
+        "words": 128206
+      },
+      {
+        "file": "4721.txt",
+        "words": 128286
+      },
+      {
+        "file": "1067.txt",
+        "words": 128288
+      },
+      {
+        "file": "56147.txt",
+        "words": 128311
+      },
+      {
+        "file": "38789.txt",
+        "words": 128328
+      },
+      {
+        "file": "34217.txt",
+        "words": 128367
+      },
+      {
+        "file": "35642.txt",
+        "words": 128398
+      },
+      {
+        "file": "58147.txt",
+        "words": 128432
+      },
+      {
+        "file": "44027.txt",
+        "words": 128434
+      },
+      {
+        "file": "35911.txt",
+        "words": 128441
+      },
+      {
+        "file": "49856.txt",
+        "words": 128469
+      },
+      {
+        "file": "42601.txt",
+        "words": 128477
+      },
+      {
+        "file": "2048.txt",
+        "words": 128489
+      },
+      {
+        "file": "57152.txt",
+        "words": 128489
+      },
+      {
+        "file": "44777.txt",
+        "words": 128496
+      },
+      {
+        "file": "52920.txt",
+        "words": 128519
+      },
+      {
+        "file": "38825.txt",
+        "words": 128521
+      },
+      {
+        "file": "50543.txt",
+        "words": 128535
+      },
+      {
+        "file": "6963.txt",
+        "words": 128538
+      },
+      {
+        "file": "1015.txt",
+        "words": 128549
+      },
+      {
+        "file": "4219.txt",
+        "words": 128573
+      },
+      {
+        "file": "41563.txt",
+        "words": 128597
+      },
+      {
+        "file": "54765.txt",
+        "words": 128603
+      },
+      {
+        "file": "39969.txt",
+        "words": 128615
+      },
+      {
+        "file": "6102.txt",
+        "words": 128626
+      },
+      {
+        "file": "30855.txt",
+        "words": 128650
+      },
+      {
+        "file": "31470.txt",
+        "words": 128661
+      },
+      {
+        "file": "10924.txt",
+        "words": 128674
+      },
+      {
+        "file": "6943.txt",
+        "words": 128686
+      },
+      {
+        "file": "42732.txt",
+        "words": 128698
+      },
+      {
+        "file": "11214.txt",
+        "words": 128712
+      },
+      {
+        "file": "3417.txt",
+        "words": 128712
+      },
+      {
+        "file": "1377.txt",
+        "words": 128718
+      },
+      {
+        "file": "37576.txt",
+        "words": 128730
+      },
+      {
+        "file": "38828.txt",
+        "words": 128731
+      },
+      {
+        "file": "50853.txt",
+        "words": 128734
+      },
+      {
+        "file": "154.txt",
+        "words": 128736
+      },
+      {
+        "file": "54823.txt",
+        "words": 128768
+      },
+      {
+        "file": "3689.txt",
+        "words": 128774
+      },
+      {
+        "file": "45949.txt",
+        "words": 128794
+      },
+      {
+        "file": "31373.txt",
+        "words": 128828
+      },
+      {
+        "file": "34203.txt",
+        "words": 128834
+      },
+      {
+        "file": "35296.txt",
+        "words": 128838
+      },
+      {
+        "file": "27400.txt",
+        "words": 128851
+      },
+      {
+        "file": "49985.txt",
+        "words": 128866
+      },
+      {
+        "file": "18779.txt",
+        "words": 128893
+      },
+      {
+        "file": "35488.txt",
+        "words": 128893
+      },
+      {
+        "file": "23664.txt",
+        "words": 128908
+      },
+      {
+        "file": "36295.txt",
+        "words": 128909
+      },
+      {
+        "file": "4931.txt",
+        "words": 128993
+      },
+      {
+        "file": "38784.txt",
+        "words": 128995
+      },
+      {
+        "file": "597.txt",
+        "words": 129007
+      },
+      {
+        "file": "2043.txt",
+        "words": 129052
+      },
+      {
+        "file": "42526.txt",
+        "words": 129056
+      },
+      {
+        "file": "50573.txt",
+        "words": 129082
+      },
+      {
+        "file": "11949.txt",
+        "words": 129083
+      },
+      {
+        "file": "47892.txt",
+        "words": 129108
+      },
+      {
+        "file": "34141.txt",
+        "words": 129145
+      },
+      {
+        "file": "58464.txt",
+        "words": 129199
+      },
+      {
+        "file": "43317.txt",
+        "words": 129200
+      },
+      {
+        "file": "7385.txt",
+        "words": 129201
+      },
+      {
+        "file": "7890.txt",
+        "words": 129223
+      },
+      {
+        "file": "13151.txt",
+        "words": 129236
+      },
+      {
+        "file": "284.txt",
+        "words": 129256
+      },
+      {
+        "file": "25678.txt",
+        "words": 129271
+      },
+      {
+        "file": "8901.txt",
+        "words": 129277
+      },
+      {
+        "file": "35526.txt",
+        "words": 129284
+      },
+      {
+        "file": "25127.txt",
+        "words": 129290
+      },
+      {
+        "file": "1298.txt",
+        "words": 129313
+      },
+      {
+        "file": "31053.txt",
+        "words": 129334
+      },
+      {
+        "file": "27978.txt",
+        "words": 129344
+      },
+      {
+        "file": "55886.txt",
+        "words": 129352
+      },
+      {
+        "file": "56940.txt",
+        "words": 129352
+      },
+      {
+        "file": "46942.txt",
+        "words": 129355
+      },
+      {
+        "file": "6373.txt",
+        "words": 129362
+      },
+      {
+        "file": "57268.txt",
+        "words": 129365
+      },
+      {
+        "file": "10550.txt",
+        "words": 129396
+      },
+      {
+        "file": "6872.txt",
+        "words": 129404
+      },
+      {
+        "file": "12425.txt",
+        "words": 129422
+      },
+      {
+        "file": "57005.txt",
+        "words": 129422
+      },
+      {
+        "file": "1727.txt",
+        "words": 129425
+      },
+      {
+        "file": "24376.txt",
+        "words": 129441
+      },
+      {
+        "file": "22188.txt",
+        "words": 129443
+      },
+      {
+        "file": "34080.txt",
+        "words": 129473
+      },
+      {
+        "file": "24614.txt",
+        "words": 129493
+      },
+      {
+        "file": "50544.txt",
+        "words": 129497
+      },
+      {
+        "file": "46493.txt",
+        "words": 129528
+      },
+      {
+        "file": "40580.txt",
+        "words": 129567
+      },
+      {
+        "file": "39920.txt",
+        "words": 129578
+      },
+      {
+        "file": "11017.txt",
+        "words": 129582
+      },
+      {
+        "file": "43379.txt",
+        "words": 129600
+      },
+      {
+        "file": "26090.txt",
+        "words": 129622
+      },
+      {
+        "file": "52685.txt",
+        "words": 129624
+      },
+      {
+        "file": "46110.txt",
+        "words": 129654
+      },
+      {
+        "file": "54938.txt",
+        "words": 129663
+      },
+      {
+        "file": "45229.txt",
+        "words": 129690
+      },
+      {
+        "file": "45771.txt",
+        "words": 129736
+      },
+      {
+        "file": "45414.txt",
+        "words": 129739
+      },
+      {
+        "file": "42832.txt",
+        "words": 129748
+      },
+      {
+        "file": "46544.txt",
+        "words": 129760
+      },
+      {
+        "file": "38531.txt",
+        "words": 129775
+      },
+      {
+        "file": "14174.txt",
+        "words": 129814
+      },
+      {
+        "file": "11874.txt",
+        "words": 129900
+      },
+      {
+        "file": "10583.txt",
+        "words": 129909
+      },
+      {
+        "file": "25993.txt",
+        "words": 129916
+      },
+      {
+        "file": "41727.txt",
+        "words": 129951
+      },
+      {
+        "file": "54776.txt",
+        "words": 129962
+      },
+      {
+        "file": "57185.txt",
+        "words": 129971
+      },
+      {
+        "file": "28402.txt",
+        "words": 129981
+      },
+      {
+        "file": "5658.txt",
+        "words": 130023
+      },
+      {
+        "file": "3899.txt",
+        "words": 130053
+      },
+      {
+        "file": "47958.txt",
+        "words": 130056
+      },
+      {
+        "file": "4125.txt",
+        "words": 130127
+      },
+      {
+        "file": "31645.txt",
+        "words": 130149
+      },
+      {
+        "file": "41809.txt",
+        "words": 130186
+      },
+      {
+        "file": "47334.txt",
+        "words": 130248
+      },
+      {
+        "file": "35228.txt",
+        "words": 130251
+      },
+      {
+        "file": "7416.txt",
+        "words": 130251
+      },
+      {
+        "file": "53717.txt",
+        "words": 130267
+      },
+      {
+        "file": "224.txt",
+        "words": 130269
+      },
+      {
+        "file": "53115.txt",
+        "words": 130278
+      },
+      {
+        "file": "28072.txt",
+        "words": 130282
+      },
+      {
+        "file": "39740.txt",
+        "words": 130285
+      },
+      {
+        "file": "50511.txt",
+        "words": 130293
+      },
+      {
+        "file": "35345.txt",
+        "words": 130391
+      },
+      {
+        "file": "53791.txt",
+        "words": 130392
+      },
+      {
+        "file": "4307.txt",
+        "words": 130397
+      },
+      {
+        "file": "8680.txt",
+        "words": 130407
+      },
+      {
+        "file": "31910.txt",
+        "words": 130447
+      },
+      {
+        "file": "55409.txt",
+        "words": 130479
+      },
+      {
+        "file": "51066.txt",
+        "words": 130488
+      },
+      {
+        "file": "54484.txt",
+        "words": 130507
+      },
+      {
+        "file": "2301.txt",
+        "words": 130513
+      },
+      {
+        "file": "32178.txt",
+        "words": 130542
+      },
+      {
+        "file": "2047.txt",
+        "words": 130545
+      },
+      {
+        "file": "51754.txt",
+        "words": 130564
+      },
+      {
+        "file": "15934.txt",
+        "words": 130582
+      },
+      {
+        "file": "44827.txt",
+        "words": 130595
+      },
+      {
+        "file": "55510.txt",
+        "words": 130633
+      },
+      {
+        "file": "35370.txt",
+        "words": 130688
+      },
+      {
+        "file": "2845.txt",
+        "words": 130702
+      },
+      {
+        "file": "50313.txt",
+        "words": 130733
+      },
+      {
+        "file": "54953.txt",
+        "words": 130748
+      },
+      {
+        "file": "8745.txt",
+        "words": 130804
+      },
+      {
+        "file": "56822.txt",
+        "words": 130811
+      },
+      {
+        "file": "49137.txt",
+        "words": 130820
+      },
+      {
+        "file": "5708.txt",
+        "words": 130832
+      },
+      {
+        "file": "35196.txt",
+        "words": 130875
+      },
+      {
+        "file": "31390.txt",
+        "words": 130930
+      },
+      {
+        "file": "44767.txt",
+        "words": 130940
+      },
+      {
+        "file": "32668.txt",
+        "words": 130980
+      },
+      {
+        "file": "43465.txt",
+        "words": 131018
+      },
+      {
+        "file": "54879.txt",
+        "words": 131038
+      },
+      {
+        "file": "48843.txt",
+        "words": 131041
+      },
+      {
+        "file": "41645.txt",
+        "words": 131042
+      },
+      {
+        "file": "36545.txt",
+        "words": 131085
+      },
+      {
+        "file": "47392.txt",
+        "words": 131098
+      },
+      {
+        "file": "11701.txt",
+        "words": 131104
+      },
+      {
+        "file": "23139.txt",
+        "words": 131108
+      },
+      {
+        "file": "27385.txt",
+        "words": 131121
+      },
+      {
+        "file": "41634.txt",
+        "words": 131146
+      },
+      {
+        "file": "38367.txt",
+        "words": 131151
+      },
+      {
+        "file": "50855.txt",
+        "words": 131154
+      },
+      {
+        "file": "45915.txt",
+        "words": 131173
+      },
+      {
+        "file": "38593.txt",
+        "words": 131188
+      },
+      {
+        "file": "40109.txt",
+        "words": 131191
+      },
+      {
+        "file": "47236.txt",
+        "words": 131200
+      },
+      {
+        "file": "26014.txt",
+        "words": 131238
+      },
+      {
+        "file": "2700.txt",
+        "words": 131261
+      },
+      {
+        "file": "4304.txt",
+        "words": 131278
+      },
+      {
+        "file": "57783.txt",
+        "words": 131292
+      },
+      {
+        "file": "26994.txt",
+        "words": 131319
+      },
+      {
+        "file": "6516.txt",
+        "words": 131322
+      },
+      {
+        "file": "43402.txt",
+        "words": 131346
+      },
+      {
+        "file": "2092.txt",
+        "words": 131358
+      },
+      {
+        "file": "4231.txt",
+        "words": 131397
+      },
+      {
+        "file": "44730.txt",
+        "words": 131400
+      },
+      {
+        "file": "55275.txt",
+        "words": 131441
+      },
+      {
+        "file": "47515.txt",
+        "words": 131462
+      },
+      {
+        "file": "20955.txt",
+        "words": 131468
+      },
+      {
+        "file": "53009.txt",
+        "words": 131484
+      },
+      {
+        "file": "51880.txt",
+        "words": 131495
+      },
+      {
+        "file": "47947.txt",
+        "words": 131504
+      },
+      {
+        "file": "10861.txt",
+        "words": 131510
+      },
+      {
+        "file": "8072.txt",
+        "words": 131518
+      },
+      {
+        "file": "38424.txt",
+        "words": 131557
+      },
+      {
+        "file": "35784.txt",
+        "words": 131565
+      },
+      {
+        "file": "46923.txt",
+        "words": 131565
+      },
+      {
+        "file": "31439.txt",
+        "words": 131620
+      },
+      {
+        "file": "36374.txt",
+        "words": 131734
+      },
+      {
+        "file": "176.txt",
+        "words": 131738
+      },
+      {
+        "file": "30527.txt",
+        "words": 131750
+      },
+      {
+        "file": "46090.txt",
+        "words": 131760
+      },
+      {
+        "file": "54137.txt",
+        "words": 131764
+      },
+      {
+        "file": "56158.txt",
+        "words": 131834
+      },
+      {
+        "file": "57586.txt",
+        "words": 131846
+      },
+      {
+        "file": "49622.txt",
+        "words": 131853
+      },
+      {
+        "file": "54367.txt",
+        "words": 131918
+      },
+      {
+        "file": "3783.txt",
+        "words": 131923
+      },
+      {
+        "file": "42973.txt",
+        "words": 131931
+      },
+      {
+        "file": "39448.txt",
+        "words": 131943
+      },
+      {
+        "file": "52886.txt",
+        "words": 131956
+      },
+      {
+        "file": "47647.txt",
+        "words": 131968
+      },
+      {
+        "file": "25353.txt",
+        "words": 131972
+      },
+      {
+        "file": "38764.txt",
+        "words": 131983
+      },
+      {
+        "file": "10489.txt",
+        "words": 131992
+      },
+      {
+        "file": "29824.txt",
+        "words": 132061
+      },
+      {
+        "file": "8155.txt",
+        "words": 132096
+      },
+      {
+        "file": "7894.txt",
+        "words": 132140
+      },
+      {
+        "file": "57522.txt",
+        "words": 132142
+      },
+      {
+        "file": "2449.txt",
+        "words": 132159
+      },
+      {
+        "file": "31558.txt",
+        "words": 132176
+      },
+      {
+        "file": "30549.txt",
+        "words": 132206
+      },
+      {
+        "file": "42997.txt",
+        "words": 132217
+      },
+      {
+        "file": "45356.txt",
+        "words": 132236
+      },
+      {
+        "file": "50416.txt",
+        "words": 132243
+      },
+      {
+        "file": "50846.txt",
+        "words": 132247
+      },
+      {
+        "file": "42991.txt",
+        "words": 132278
+      },
+      {
+        "file": "6875.txt",
+        "words": 132293
+      },
+      {
+        "file": "42645.txt",
+        "words": 132302
+      },
+      {
+        "file": "46803.txt",
+        "words": 132306
+      },
+      {
+        "file": "47386.txt",
+        "words": 132308
+      },
+      {
+        "file": "47282.txt",
+        "words": 132388
+      },
+      {
+        "file": "1831.txt",
+        "words": 132389
+      },
+      {
+        "file": "50539.txt",
+        "words": 132398
+      },
+      {
+        "file": "42933.txt",
+        "words": 132423
+      },
+      {
+        "file": "57045.txt",
+        "words": 132428
+      },
+      {
+        "file": "4195.txt",
+        "words": 132442
+      },
+      {
+        "file": "2673.txt",
+        "words": 132458
+      },
+      {
+        "file": "6028.txt",
+        "words": 132478
+      },
+      {
+        "file": "33420.txt",
+        "words": 132482
+      },
+      {
+        "file": "4898.txt",
+        "words": 132487
+      },
+      {
+        "file": "36138.txt",
+        "words": 132543
+      },
+      {
+        "file": "54096.txt",
+        "words": 132578
+      },
+      {
+        "file": "40665.txt",
+        "words": 132612
+      },
+      {
+        "file": "45167.txt",
+        "words": 132669
+      },
+      {
+        "file": "40830.txt",
+        "words": 132689
+      },
+      {
+        "file": "53859.txt",
+        "words": 132708
+      },
+      {
+        "file": "42249.txt",
+        "words": 132718
+      },
+      {
+        "file": "46884.txt",
+        "words": 132724
+      },
+      {
+        "file": "56541.txt",
+        "words": 132726
+      },
+      {
+        "file": "47245.txt",
+        "words": 132735
+      },
+      {
+        "file": "52362.txt",
+        "words": 132737
+      },
+      {
+        "file": "55263.txt",
+        "words": 132760
+      },
+      {
+        "file": "27488.txt",
+        "words": 132769
+      },
+      {
+        "file": "41150.txt",
+        "words": 132787
+      },
+      {
+        "file": "35764.txt",
+        "words": 132798
+      },
+      {
+        "file": "4681.txt",
+        "words": 132824
+      },
+      {
+        "file": "26774.txt",
+        "words": 132827
+      },
+      {
+        "file": "24963.txt",
+        "words": 132849
+      },
+      {
+        "file": "43847.txt",
+        "words": 132866
+      },
+      {
+        "file": "41761.txt",
+        "words": 132881
+      },
+      {
+        "file": "39394.txt",
+        "words": 132908
+      },
+      {
+        "file": "56843.txt",
+        "words": 132917
+      },
+      {
+        "file": "32176.txt",
+        "words": 132974
+      },
+      {
+        "file": "35144.txt",
+        "words": 133002
+      },
+      {
+        "file": "15254.txt",
+        "words": 133012
+      },
+      {
+        "file": "52357.txt",
+        "words": 133039
+      },
+      {
+        "file": "8651.txt",
+        "words": 133045
+      },
+      {
+        "file": "52424.txt",
+        "words": 133053
+      },
+      {
+        "file": "35739.txt",
+        "words": 133067
+      },
+      {
+        "file": "42618.txt",
+        "words": 133133
+      },
+      {
+        "file": "33452.txt",
+        "words": 133165
+      },
+      {
+        "file": "33537.txt",
+        "words": 133166
+      },
+      {
+        "file": "28017.txt",
+        "words": 133181
+      },
+      {
+        "file": "55935.txt",
+        "words": 133199
+      },
+      {
+        "file": "29958.txt",
+        "words": 133201
+      },
+      {
+        "file": "55405.txt",
+        "words": 133247
+      },
+      {
+        "file": "45769.txt",
+        "words": 133249
+      },
+      {
+        "file": "27785.txt",
+        "words": 133269
+      },
+      {
+        "file": "49580.txt",
+        "words": 133294
+      },
+      {
+        "file": "46572.txt",
+        "words": 133295
+      },
+      {
+        "file": "49903.txt",
+        "words": 133295
+      },
+      {
+        "file": "38985.txt",
+        "words": 133333
+      },
+      {
+        "file": "5175.txt",
+        "words": 133356
+      },
+      {
+        "file": "36405.txt",
+        "words": 133362
+      },
+      {
+        "file": "38938.txt",
+        "words": 133365
+      },
+      {
+        "file": "41973.txt",
+        "words": 133386
+      },
+      {
+        "file": "30247.txt",
+        "words": 133394
+      },
+      {
+        "file": "34967.txt",
+        "words": 133399
+      },
+      {
+        "file": "45303.txt",
+        "words": 133399
+      },
+      {
+        "file": "2517.txt",
+        "words": 133426
+      },
+      {
+        "file": "1576.txt",
+        "words": 133458
+      },
+      {
+        "file": "8658.txt",
+        "words": 133514
+      },
+      {
+        "file": "34140.txt",
+        "words": 133538
+      },
+      {
+        "file": "46634.txt",
+        "words": 133550
+      },
+      {
+        "file": "46693.txt",
+        "words": 133622
+      },
+      {
+        "file": "718.txt",
+        "words": 133637
+      },
+      {
+        "file": "45895.txt",
+        "words": 133695
+      },
+      {
+        "file": "56404.txt",
+        "words": 133723
+      },
+      {
+        "file": "30849.txt",
+        "words": 133765
+      },
+      {
+        "file": "50392.txt",
+        "words": 133804
+      },
+      {
+        "file": "39205.txt",
+        "words": 133806
+      },
+      {
+        "file": "39347.txt",
+        "words": 133811
+      },
+      {
+        "file": "177.txt",
+        "words": 133829
+      },
+      {
+        "file": "47317.txt",
+        "words": 133843
+      },
+      {
+        "file": "7895.txt",
+        "words": 133848
+      },
+      {
+        "file": "4508.txt",
+        "words": 133858
+      },
+      {
+        "file": "48874.txt",
+        "words": 133878
+      },
+      {
+        "file": "33049.txt",
+        "words": 133904
+      },
+      {
+        "file": "30245.txt",
+        "words": 133931
+      },
+      {
+        "file": "47823.txt",
+        "words": 133954
+      },
+      {
+        "file": "39645.txt",
+        "words": 134036
+      },
+      {
+        "file": "16019.txt",
+        "words": 134051
+      },
+      {
+        "file": "3137.txt",
+        "words": 134062
+      },
+      {
+        "file": "27710.txt",
+        "words": 134102
+      },
+      {
+        "file": "3953.txt",
+        "words": 134118
+      },
+      {
+        "file": "50402.txt",
+        "words": 134131
+      },
+      {
+        "file": "6706.txt",
+        "words": 134132
+      },
+      {
+        "file": "4005.txt",
+        "words": 134143
+      },
+      {
+        "file": "42257.txt",
+        "words": 134169
+      },
+      {
+        "file": "34074.txt",
+        "words": 134200
+      },
+      {
+        "file": "40216.txt",
+        "words": 134247
+      },
+      {
+        "file": "41800.txt",
+        "words": 134287
+      },
+      {
+        "file": "34479.txt",
+        "words": 134326
+      },
+      {
+        "file": "47380.txt",
+        "words": 134332
+      },
+      {
+        "file": "27713.txt",
+        "words": 134342
+      },
+      {
+        "file": "34979.txt",
+        "words": 134358
+      },
+      {
+        "file": "50476.txt",
+        "words": 134359
+      },
+      {
+        "file": "43020.txt",
+        "words": 134371
+      },
+      {
+        "file": "27279.txt",
+        "words": 134374
+      },
+      {
+        "file": "20729.txt",
+        "words": 134413
+      },
+      {
+        "file": "18721.txt",
+        "words": 134421
+      },
+      {
+        "file": "58421.txt",
+        "words": 134428
+      },
+      {
+        "file": "33469.txt",
+        "words": 134439
+      },
+      {
+        "file": "52588.txt",
+        "words": 134461
+      },
+      {
+        "file": "56318.txt",
+        "words": 134479
+      },
+      {
+        "file": "31809.txt",
+        "words": 134488
+      },
+      {
+        "file": "43938.txt",
+        "words": 134514
+      },
+      {
+        "file": "27980.txt",
+        "words": 134520
+      },
+      {
+        "file": "51086.txt",
+        "words": 134522
+      },
+      {
+        "file": "33468.txt",
+        "words": 134531
+      },
+      {
+        "file": "40594.txt",
+        "words": 134535
+      },
+      {
+        "file": "7492.txt",
+        "words": 134576
+      },
+      {
+        "file": "48437.txt",
+        "words": 134577
+      },
+      {
+        "file": "34713.txt",
+        "words": 134603
+      },
+      {
+        "file": "40257.txt",
+        "words": 134635
+      },
+      {
+        "file": "39615.txt",
+        "words": 134657
+      },
+      {
+        "file": "29413.txt",
+        "words": 134666
+      },
+      {
+        "file": "3816.txt",
+        "words": 134677
+      },
+      {
+        "file": "12959.txt",
+        "words": 134694
+      },
+      {
+        "file": "48602.txt",
+        "words": 134694
+      },
+      {
+        "file": "45160.txt",
+        "words": 134703
+      },
+      {
+        "file": "23382.txt",
+        "words": 134753
+      },
+      {
+        "file": "30863.txt",
+        "words": 134755
+      },
+      {
+        "file": "39395.txt",
+        "words": 134816
+      },
+      {
+        "file": "45765.txt",
+        "words": 134832
+      },
+      {
+        "file": "48858.txt",
+        "words": 134848
+      },
+      {
+        "file": "2397.txt",
+        "words": 134888
+      },
+      {
+        "file": "56157.txt",
+        "words": 134898
+      },
+      {
+        "file": "36928.txt",
+        "words": 134908
+      },
+      {
+        "file": "38952.txt",
+        "words": 134939
+      },
+      {
+        "file": "40861.txt",
+        "words": 134945
+      },
+      {
+        "file": "49561.txt",
+        "words": 134981
+      },
+      {
+        "file": "47693.txt",
+        "words": 134990
+      },
+      {
+        "file": "33965.txt",
+        "words": 134997
+      },
+      {
+        "file": "38750.txt",
+        "words": 134998
+      },
+      {
+        "file": "482.txt",
+        "words": 135000
+      },
+      {
+        "file": "45980.txt",
+        "words": 135002
+      },
+      {
+        "file": "46857.txt",
+        "words": 135005
+      },
+      {
+        "file": "48433.txt",
+        "words": 135016
+      },
+      {
+        "file": "202.txt",
+        "words": 135037
+      },
+      {
+        "file": "46326.txt",
+        "words": 135044
+      },
+      {
+        "file": "43456.txt",
+        "words": 135067
+      },
+      {
+        "file": "54383.txt",
+        "words": 135079
+      },
+      {
+        "file": "5744.txt",
+        "words": 135126
+      },
+      {
+        "file": "34646.txt",
+        "words": 135160
+      },
+      {
+        "file": "6848.txt",
+        "words": 135169
+      },
+      {
+        "file": "39934.txt",
+        "words": 135188
+      },
+      {
+        "file": "55987.txt",
+        "words": 135271
+      },
+      {
+        "file": "14279.txt",
+        "words": 135314
+      },
+      {
+        "file": "40055.txt",
+        "words": 135323
+      },
+      {
+        "file": "45496.txt",
+        "words": 135362
+      },
+      {
+        "file": "58355.txt",
+        "words": 135378
+      },
+      {
+        "file": "47297.txt",
+        "words": 135385
+      },
+      {
+        "file": "25093.txt",
+        "words": 135394
+      },
+      {
+        "file": "55813.txt",
+        "words": 135415
+      },
+      {
+        "file": "47748.txt",
+        "words": 135424
+      },
+      {
+        "file": "44101.txt",
+        "words": 135431
+      },
+      {
+        "file": "28407.txt",
+        "words": 135437
+      },
+      {
+        "file": "3438.txt",
+        "words": 135467
+      },
+      {
+        "file": "56196.txt",
+        "words": 135470
+      },
+      {
+        "file": "28384.txt",
+        "words": 135472
+      },
+      {
+        "file": "54968.txt",
+        "words": 135488
+      },
+      {
+        "file": "34022.txt",
+        "words": 135493
+      },
+      {
+        "file": "45779.txt",
+        "words": 135506
+      },
+      {
+        "file": "2519.txt",
+        "words": 135509
+      },
+      {
+        "file": "4693.txt",
+        "words": 135536
+      },
+      {
+        "file": "35143.txt",
+        "words": 135541
+      },
+      {
+        "file": "45074.txt",
+        "words": 135576
+      },
+      {
+        "file": "29366.txt",
+        "words": 135637
+      },
+      {
+        "file": "41611.txt",
+        "words": 135662
+      },
+      {
+        "file": "8657.txt",
+        "words": 135688
+      },
+      {
+        "file": "40994.txt",
+        "words": 135702
+      },
+      {
+        "file": "50737.txt",
+        "words": 135705
+      },
+      {
+        "file": "27925.txt",
+        "words": 135723
+      },
+      {
+        "file": "30111.txt",
+        "words": 135739
+      },
+      {
+        "file": "12419.txt",
+        "words": 135781
+      },
+      {
+        "file": "26439.txt",
+        "words": 135783
+      },
+      {
+        "file": "42258.txt",
+        "words": 135787
+      },
+      {
+        "file": "5345.txt",
+        "words": 135800
+      },
+      {
+        "file": "48883.txt",
+        "words": 135822
+      },
+      {
+        "file": "42483.txt",
+        "words": 135827
+      },
+      {
+        "file": "44563.txt",
+        "words": 135853
+      },
+      {
+        "file": "852.txt",
+        "words": 135881
+      },
+      {
+        "file": "35307.txt",
+        "words": 135937
+      },
+      {
+        "file": "52290.txt",
+        "words": 135937
+      },
+      {
+        "file": "45178.txt",
+        "words": 135948
+      },
+      {
+        "file": "53799.txt",
+        "words": 135949
+      },
+      {
+        "file": "43368.txt",
+        "words": 135952
+      },
+      {
+        "file": "1626.txt",
+        "words": 135967
+      },
+      {
+        "file": "31180.txt",
+        "words": 135991
+      },
+      {
+        "file": "40935.txt",
+        "words": 135995
+      },
+      {
+        "file": "30619.txt",
+        "words": 136017
+      },
+      {
+        "file": "1334.txt",
+        "words": 136023
+      },
+      {
+        "file": "38923.txt",
+        "words": 136025
+      },
+      {
+        "file": "54686.txt",
+        "words": 136037
+      },
+      {
+        "file": "36564.txt",
+        "words": 136067
+      },
+      {
+        "file": "32813.txt",
+        "words": 136076
+      },
+      {
+        "file": "47944.txt",
+        "words": 136109
+      },
+      {
+        "file": "33211.txt",
+        "words": 136159
+      },
+      {
+        "file": "30943.txt",
+        "words": 136160
+      },
+      {
+        "file": "51737.txt",
+        "words": 136182
+      },
+      {
+        "file": "37418.txt",
+        "words": 136282
+      },
+      {
+        "file": "43281.txt",
+        "words": 136292
+      },
+      {
+        "file": "47292.txt",
+        "words": 136294
+      },
+      {
+        "file": "57393.txt",
+        "words": 136299
+      },
+      {
+        "file": "144.txt",
+        "words": 136308
+      },
+      {
+        "file": "46505.txt",
+        "words": 136322
+      },
+      {
+        "file": "4067.txt",
+        "words": 136326
+      },
+      {
+        "file": "10461.txt",
+        "words": 136334
+      },
+      {
+        "file": "7433.txt",
+        "words": 136356
+      },
+      {
+        "file": "4787.txt",
+        "words": 136391
+      },
+      {
+        "file": "30480.txt",
+        "words": 136408
+      },
+      {
+        "file": "42996.txt",
+        "words": 136452
+      },
+      {
+        "file": "39106.txt",
+        "words": 136470
+      },
+      {
+        "file": "57038.txt",
+        "words": 136480
+      },
+      {
+        "file": "57521.txt",
+        "words": 136501
+      },
+      {
+        "file": "37904.txt",
+        "words": 136519
+      },
+      {
+        "file": "38642.txt",
+        "words": 136537
+      },
+      {
+        "file": "23609.txt",
+        "words": 136579
+      },
+      {
+        "file": "2384.txt",
+        "words": 136607
+      },
+      {
+        "file": "48318.txt",
+        "words": 136610
+      },
+      {
+        "file": "39767.txt",
+        "words": 136622
+      },
+      {
+        "file": "45357.txt",
+        "words": 136631
+      },
+      {
+        "file": "50687.txt",
+        "words": 136690
+      },
+      {
+        "file": "36124.txt",
+        "words": 136730
+      },
+      {
+        "file": "35620.txt",
+        "words": 136736
+      },
+      {
+        "file": "48079.txt",
+        "words": 136764
+      },
+      {
+        "file": "44624.txt",
+        "words": 136775
+      },
+      {
+        "file": "38588.txt",
+        "words": 136778
+      },
+      {
+        "file": "43719.txt",
+        "words": 136817
+      },
+      {
+        "file": "10655.txt",
+        "words": 136828
+      },
+      {
+        "file": "53161.txt",
+        "words": 136833
+      },
+      {
+        "file": "26522.txt",
+        "words": 136857
+      },
+      {
+        "file": "57198.txt",
+        "words": 136903
+      },
+      {
+        "file": "37120.txt",
+        "words": 136925
+      },
+      {
+        "file": "40045.txt",
+        "words": 136942
+      },
+      {
+        "file": "31879.txt",
+        "words": 136949
+      },
+      {
+        "file": "35538.txt",
+        "words": 136965
+      },
+      {
+        "file": "39470.txt",
+        "words": 136965
+      },
+      {
+        "file": "8910.txt",
+        "words": 136970
+      },
+      {
+        "file": "33467.txt",
+        "words": 136980
+      },
+      {
+        "file": "18161.txt",
+        "words": 136984
+      },
+      {
+        "file": "601.txt",
+        "words": 137022
+      },
+      {
+        "file": "47575.txt",
+        "words": 137026
+      },
+      {
+        "file": "40731.txt",
+        "words": 137035
+      },
+      {
+        "file": "41412.txt",
+        "words": 137051
+      },
+      {
+        "file": "35110.txt",
+        "words": 137068
+      },
+      {
+        "file": "107.txt",
+        "words": 137072
+      },
+      {
+        "file": "29725.txt",
+        "words": 137130
+      },
+      {
+        "file": "56860.txt",
+        "words": 137144
+      },
+      {
+        "file": "28717.txt",
+        "words": 137152
+      },
+      {
+        "file": "54665.txt",
+        "words": 137153
+      },
+      {
+        "file": "6719.txt",
+        "words": 137169
+      },
+      {
+        "file": "7426.txt",
+        "words": 137173
+      },
+      {
+        "file": "43657.txt",
+        "words": 137184
+      },
+      {
+        "file": "22004.txt",
+        "words": 137246
+      },
+      {
+        "file": "57750.txt",
+        "words": 137271
+      },
+      {
+        "file": "40609.txt",
+        "words": 137294
+      },
+      {
+        "file": "57389.txt",
+        "words": 137298
+      },
+      {
+        "file": "3460.txt",
+        "words": 137305
+      },
+      {
+        "file": "51652.txt",
+        "words": 137309
+      },
+      {
+        "file": "52652.txt",
+        "words": 137323
+      },
+      {
+        "file": "6775.txt",
+        "words": 137402
+      },
+      {
+        "file": "6947.txt",
+        "words": 137444
+      },
+      {
+        "file": "43098.txt",
+        "words": 137464
+      },
+      {
+        "file": "8656.txt",
+        "words": 137488
+      },
+      {
+        "file": "40874.txt",
+        "words": 137499
+      },
+      {
+        "file": "6059.txt",
+        "words": 137525
+      },
+      {
+        "file": "58604.txt",
+        "words": 137532
+      },
+      {
+        "file": "49555.txt",
+        "words": 137538
+      },
+      {
+        "file": "8157.txt",
+        "words": 137541
+      },
+      {
+        "file": "46877.txt",
+        "words": 137561
+      },
+      {
+        "file": "48992.txt",
+        "words": 137561
+      },
+      {
+        "file": "45456.txt",
+        "words": 137576
+      },
+      {
+        "file": "57950.txt",
+        "words": 137584
+      },
+      {
+        "file": "44865.txt",
+        "words": 137588
+      },
+      {
+        "file": "53254.txt",
+        "words": 137590
+      },
+      {
+        "file": "26745.txt",
+        "words": 137604
+      },
+      {
+        "file": "24739.txt",
+        "words": 137641
+      },
+      {
+        "file": "8605.txt",
+        "words": 137676
+      },
+      {
+        "file": "47674.txt",
+        "words": 137679
+      },
+      {
+        "file": "47517.txt",
+        "words": 137686
+      },
+      {
+        "file": "3620.txt",
+        "words": 137718
+      },
+      {
+        "file": "41401.txt",
+        "words": 137722
+      },
+      {
+        "file": "5186.txt",
+        "words": 137725
+      },
+      {
+        "file": "1476.txt",
+        "words": 137734
+      },
+      {
+        "file": "21504.txt",
+        "words": 137739
+      },
+      {
+        "file": "36312.txt",
+        "words": 137780
+      },
+      {
+        "file": "45645.txt",
+        "words": 137789
+      },
+      {
+        "file": "8711.txt",
+        "words": 137852
+      },
+      {
+        "file": "52079.txt",
+        "words": 137862
+      },
+      {
+        "file": "6700.txt",
+        "words": 137899
+      },
+      {
+        "file": "49955.txt",
+        "words": 137928
+      },
+      {
+        "file": "42450.txt",
+        "words": 137950
+      },
+      {
+        "file": "51298.txt",
+        "words": 137985
+      },
+      {
+        "file": "5005.txt",
+        "words": 137993
+      },
+      {
+        "file": "46869.txt",
+        "words": 138021
+      },
+      {
+        "file": "58608.txt",
+        "words": 138028
+      },
+      {
+        "file": "57003.txt",
+        "words": 138045
+      },
+      {
+        "file": "26088.txt",
+        "words": 138060
+      },
+      {
+        "file": "32945.txt",
+        "words": 138076
+      },
+      {
+        "file": "3440.txt",
+        "words": 138083
+      },
+      {
+        "file": "31026.txt",
+        "words": 138164
+      },
+      {
+        "file": "36244.txt",
+        "words": 138176
+      },
+      {
+        "file": "29778.txt",
+        "words": 138190
+      },
+      {
+        "file": "31162.txt",
+        "words": 138199
+      },
+      {
+        "file": "8389.txt",
+        "words": 138209
+      },
+      {
+        "file": "50036.txt",
+        "words": 138220
+      },
+      {
+        "file": "41751.txt",
+        "words": 138222
+      },
+      {
+        "file": "11204.txt",
+        "words": 138292
+      },
+      {
+        "file": "25852.txt",
+        "words": 138303
+      },
+      {
+        "file": "1024.txt",
+        "words": 138305
+      },
+      {
+        "file": "55966.txt",
+        "words": 138306
+      },
+      {
+        "file": "37136.txt",
+        "words": 138321
+      },
+      {
+        "file": "4313.txt",
+        "words": 138330
+      },
+      {
+        "file": "370.txt",
+        "words": 138331
+      },
+      {
+        "file": "48534.txt",
+        "words": 138341
+      },
+      {
+        "file": "32151.txt",
+        "words": 138350
+      },
+      {
+        "file": "39758.txt",
+        "words": 138405
+      },
+      {
+        "file": "30954.txt",
+        "words": 138410
+      },
+      {
+        "file": "6081.txt",
+        "words": 138426
+      },
+      {
+        "file": "57136.txt",
+        "words": 138443
+      },
+      {
+        "file": "32517.txt",
+        "words": 138450
+      },
+      {
+        "file": "503.txt",
+        "words": 138454
+      },
+      {
+        "file": "43491.txt",
+        "words": 138458
+      },
+      {
+        "file": "3258.txt",
+        "words": 138487
+      },
+      {
+        "file": "47950.txt",
+        "words": 138491
+      },
+      {
+        "file": "49782.txt",
+        "words": 138508
+      },
+      {
+        "file": "57777.txt",
+        "words": 138511
+      },
+      {
+        "file": "37734.txt",
+        "words": 138562
+      },
+      {
+        "file": "49618.txt",
+        "words": 138567
+      },
+      {
+        "file": "47595.txt",
+        "words": 138577
+      },
+      {
+        "file": "12444.txt",
+        "words": 138593
+      },
+      {
+        "file": "41629.txt",
+        "words": 138598
+      },
+      {
+        "file": "31274.txt",
+        "words": 138612
+      },
+      {
+        "file": "53411.txt",
+        "words": 138643
+      },
+      {
+        "file": "54187.txt",
+        "words": 138690
+      },
+      {
+        "file": "7649.txt",
+        "words": 138713
+      },
+      {
+        "file": "3649.txt",
+        "words": 138722
+      },
+      {
+        "file": "41849.txt",
+        "words": 138771
+      },
+      {
+        "file": "1056.txt",
+        "words": 138792
+      },
+      {
+        "file": "46597.txt",
+        "words": 138836
+      },
+      {
+        "file": "23074.txt",
+        "words": 138840
+      },
+      {
+        "file": "41545.txt",
+        "words": 138864
+      },
+      {
+        "file": "6012.txt",
+        "words": 138868
+      },
+      {
+        "file": "50966.txt",
+        "words": 138881
+      },
+      {
+        "file": "46609.txt",
+        "words": 138893
+      },
+      {
+        "file": "48376.txt",
+        "words": 138898
+      },
+      {
+        "file": "49986.txt",
+        "words": 138901
+      },
+      {
+        "file": "43416.txt",
+        "words": 138917
+      },
+      {
+        "file": "11052.txt",
+        "words": 138925
+      },
+      {
+        "file": "54734.txt",
+        "words": 138939
+      },
+      {
+        "file": "53952.txt",
+        "words": 138945
+      },
+      {
+        "file": "47808.txt",
+        "words": 138953
+      },
+      {
+        "file": "25853.txt",
+        "words": 138998
+      },
+      {
+        "file": "41828.txt",
+        "words": 139000
+      },
+      {
+        "file": "40811.txt",
+        "words": 139013
+      },
+      {
+        "file": "34503.txt",
+        "words": 139015
+      },
+      {
+        "file": "30472.txt",
+        "words": 139017
+      },
+      {
+        "file": "55922.txt",
+        "words": 139027
+      },
+      {
+        "file": "35245.txt",
+        "words": 139062
+      },
+      {
+        "file": "41572.txt",
+        "words": 139089
+      },
+      {
+        "file": "54525.txt",
+        "words": 139125
+      },
+      {
+        "file": "2323.txt",
+        "words": 139138
+      },
+      {
+        "file": "42970.txt",
+        "words": 139149
+      },
+      {
+        "file": "25911.txt",
+        "words": 139173
+      },
+      {
+        "file": "50559.txt",
+        "words": 139227
+      },
+      {
+        "file": "39848.txt",
+        "words": 139263
+      },
+      {
+        "file": "29540.txt",
+        "words": 139280
+      },
+      {
+        "file": "42925.txt",
+        "words": 139309
+      },
+      {
+        "file": "48099.txt",
+        "words": 139347
+      },
+      {
+        "file": "36131.txt",
+        "words": 139350
+      },
+      {
+        "file": "5144.txt",
+        "words": 139361
+      },
+      {
+        "file": "41576.txt",
+        "words": 139366
+      },
+      {
+        "file": "39675.txt",
+        "words": 139381
+      },
+      {
+        "file": "43148.txt",
+        "words": 139414
+      },
+      {
+        "file": "30756.txt",
+        "words": 139423
+      },
+      {
+        "file": "54100.txt",
+        "words": 139424
+      },
+      {
+        "file": "26073.txt",
+        "words": 139437
+      },
+      {
+        "file": "55234.txt",
+        "words": 139454
+      },
+      {
+        "file": "37959.txt",
+        "words": 139463
+      },
+      {
+        "file": "31511.txt",
+        "words": 139464
+      },
+      {
+        "file": "42984.txt",
+        "words": 139468
+      },
+      {
+        "file": "38787.txt",
+        "words": 139478
+      },
+      {
+        "file": "10712.txt",
+        "words": 139517
+      },
+      {
+        "file": "5995.txt",
+        "words": 139561
+      },
+      {
+        "file": "44484.txt",
+        "words": 139590
+      },
+      {
+        "file": "33602.txt",
+        "words": 139645
+      },
+      {
+        "file": "35932.txt",
+        "words": 139659
+      },
+      {
+        "file": "42267.txt",
+        "words": 139673
+      },
+      {
+        "file": "24647.txt",
+        "words": 139678
+      },
+      {
+        "file": "40161.txt",
+        "words": 139681
+      },
+      {
+        "file": "50011.txt",
+        "words": 139748
+      },
+      {
+        "file": "42072.txt",
+        "words": 139761
+      },
+      {
+        "file": "31187.txt",
+        "words": 139769
+      },
+      {
+        "file": "58270.txt",
+        "words": 139786
+      },
+      {
+        "file": "56332.txt",
+        "words": 139787
+      },
+      {
+        "file": "49325.txt",
+        "words": 139794
+      },
+      {
+        "file": "54335.txt",
+        "words": 139798
+      },
+      {
+        "file": "1622.txt",
+        "words": 139853
+      },
+      {
+        "file": "39997.txt",
+        "words": 139860
+      },
+      {
+        "file": "53828.txt",
+        "words": 139866
+      },
+      {
+        "file": "26163.txt",
+        "words": 139879
+      },
+      {
+        "file": "32695.txt",
+        "words": 139886
+      },
+      {
+        "file": "41508.txt",
+        "words": 139910
+      },
+      {
+        "file": "42759.txt",
+        "words": 139917
+      },
+      {
+        "file": "42100.txt",
+        "words": 139934
+      },
+      {
+        "file": "34662.txt",
+        "words": 139942
+      },
+      {
+        "file": "40840.txt",
+        "words": 139944
+      },
+      {
+        "file": "5482.txt",
+        "words": 139964
+      },
+      {
+        "file": "37231.txt",
+        "words": 140008
+      },
+      {
+        "file": "2696.txt",
+        "words": 140046
+      },
+      {
+        "file": "35916.txt",
+        "words": 140092
+      },
+      {
+        "file": "33833.txt",
+        "words": 140101
+      },
+      {
+        "file": "26908.txt",
+        "words": 140104
+      },
+      {
+        "file": "32560.txt",
+        "words": 140130
+      },
+      {
+        "file": "10363.txt",
+        "words": 140166
+      },
+      {
+        "file": "56577.txt",
+        "words": 140174
+      },
+      {
+        "file": "43523.txt",
+        "words": 140184
+      },
+      {
+        "file": "28157.txt",
+        "words": 140246
+      },
+      {
+        "file": "53006.txt",
+        "words": 140289
+      },
+      {
+        "file": "24793.txt",
+        "words": 140299
+      },
+      {
+        "file": "38456.txt",
+        "words": 140301
+      },
+      {
+        "file": "40240.txt",
+        "words": 140324
+      },
+      {
+        "file": "40076.txt",
+        "words": 140340
+      },
+      {
+        "file": "22694.txt",
+        "words": 140359
+      },
+      {
+        "file": "42693.txt",
+        "words": 140388
+      },
+      {
+        "file": "36778.txt",
+        "words": 140409
+      },
+      {
+        "file": "25937.txt",
+        "words": 140445
+      },
+      {
+        "file": "29655.txt",
+        "words": 140481
+      },
+      {
+        "file": "3044.txt",
+        "words": 140482
+      },
+      {
+        "file": "43348.txt",
+        "words": 140488
+      },
+      {
+        "file": "27879.txt",
+        "words": 140490
+      },
+      {
+        "file": "36209.txt",
+        "words": 140505
+      },
+      {
+        "file": "44337.txt",
+        "words": 140519
+      },
+      {
+        "file": "58650.txt",
+        "words": 140520
+      },
+      {
+        "file": "38409.txt",
+        "words": 140540
+      },
+      {
+        "file": "44140.txt",
+        "words": 140563
+      },
+      {
+        "file": "48136.txt",
+        "words": 140577
+      },
+      {
+        "file": "41926.txt",
+        "words": 140619
+      },
+      {
+        "file": "33301.txt",
+        "words": 140667
+      },
+      {
+        "file": "55906.txt",
+        "words": 140682
+      },
+      {
+        "file": "27603.txt",
+        "words": 140712
+      },
+      {
+        "file": "56887.txt",
+        "words": 140761
+      },
+      {
+        "file": "50964.txt",
+        "words": 140770
+      },
+      {
+        "file": "52763.txt",
+        "words": 140779
+      },
+      {
+        "file": "56347.txt",
+        "words": 140788
+      },
+      {
+        "file": "45604.txt",
+        "words": 140804
+      },
+      {
+        "file": "7131.txt",
+        "words": 140806
+      },
+      {
+        "file": "10827.txt",
+        "words": 140815
+      },
+      {
+        "file": "34500.txt",
+        "words": 140842
+      },
+      {
+        "file": "38201.txt",
+        "words": 140901
+      },
+      {
+        "file": "49524.txt",
+        "words": 140910
+      },
+      {
+        "file": "41792.txt",
+        "words": 140911
+      },
+      {
+        "file": "48699.txt",
+        "words": 140923
+      },
+      {
+        "file": "41768.txt",
+        "words": 140931
+      },
+      {
+        "file": "26196.txt",
+        "words": 140953
+      },
+      {
+        "file": "35443.txt",
+        "words": 141026
+      },
+      {
+        "file": "56328.txt",
+        "words": 141140
+      },
+      {
+        "file": "44073.txt",
+        "words": 141154
+      },
+      {
+        "file": "10453.txt",
+        "words": 141157
+      },
+      {
+        "file": "38871.txt",
+        "words": 141177
+      },
+      {
+        "file": "19398.txt",
+        "words": 141180
+      },
+      {
+        "file": "34476.txt",
+        "words": 141188
+      },
+      {
+        "file": "32071.txt",
+        "words": 141196
+      },
+      {
+        "file": "4312.txt",
+        "words": 141201
+      },
+      {
+        "file": "55118.txt",
+        "words": 141215
+      },
+      {
+        "file": "56414.txt",
+        "words": 141217
+      },
+      {
+        "file": "45512.txt",
+        "words": 141231
+      },
+      {
+        "file": "34081.txt",
+        "words": 141236
+      },
+      {
+        "file": "3726.txt",
+        "words": 141246
+      },
+      {
+        "file": "57939.txt",
+        "words": 141264
+      },
+      {
+        "file": "816.txt",
+        "words": 141268
+      },
+      {
+        "file": "54043.txt",
+        "words": 141272
+      },
+      {
+        "file": "2168.txt",
+        "words": 141292
+      },
+      {
+        "file": "4032.txt",
+        "words": 141297
+      },
+      {
+        "file": "24606.txt",
+        "words": 141304
+      },
+      {
+        "file": "31081.txt",
+        "words": 141308
+      },
+      {
+        "file": "7829.txt",
+        "words": 141310
+      },
+      {
+        "file": "51717.txt",
+        "words": 141315
+      },
+      {
+        "file": "4360.txt",
+        "words": 141373
+      },
+      {
+        "file": "51654.txt",
+        "words": 141401
+      },
+      {
+        "file": "35646.txt",
+        "words": 141414
+      },
+      {
+        "file": "41593.txt",
+        "words": 141417
+      },
+      {
+        "file": "54982.txt",
+        "words": 141418
+      },
+      {
+        "file": "52213.txt",
+        "words": 141425
+      },
+      {
+        "file": "3469.txt",
+        "words": 141440
+      },
+      {
+        "file": "40133.txt",
+        "words": 141508
+      },
+      {
+        "file": "16004.txt",
+        "words": 141538
+      },
+      {
+        "file": "10062.txt",
+        "words": 141544
+      },
+      {
+        "file": "37657.txt",
+        "words": 141560
+      },
+      {
+        "file": "38025.txt",
+        "words": 141572
+      },
+      {
+        "file": "31604.txt",
+        "words": 141599
+      },
+      {
+        "file": "40147.txt",
+        "words": 141635
+      },
+      {
+        "file": "46746.txt",
+        "words": 141663
+      },
+      {
+        "file": "31225.txt",
+        "words": 141671
+      },
+      {
+        "file": "122.txt",
+        "words": 141694
+      },
+      {
+        "file": "48296.txt",
+        "words": 141698
+      },
+      {
+        "file": "57823.txt",
+        "words": 141807
+      },
+      {
+        "file": "1865.txt",
+        "words": 141840
+      },
+      {
+        "file": "16094.txt",
+        "words": 141860
+      },
+      {
+        "file": "36087.txt",
+        "words": 141884
+      },
+      {
+        "file": "57685.txt",
+        "words": 141912
+      },
+      {
+        "file": "46443.txt",
+        "words": 141923
+      },
+      {
+        "file": "35367.txt",
+        "words": 141926
+      },
+      {
+        "file": "27907.txt",
+        "words": 141960
+      },
+      {
+        "file": "1081.txt",
+        "words": 141968
+      },
+      {
+        "file": "57723.txt",
+        "words": 141975
+      },
+      {
+        "file": "55668.txt",
+        "words": 142019
+      },
+      {
+        "file": "7831.txt",
+        "words": 142034
+      },
+      {
+        "file": "54376.txt",
+        "words": 142052
+      },
+      {
+        "file": "45764.txt",
+        "words": 142055
+      },
+      {
+        "file": "4092.txt",
+        "words": 142084
+      },
+      {
+        "file": "27577.txt",
+        "words": 142087
+      },
+      {
+        "file": "38537.txt",
+        "words": 142091
+      },
+      {
+        "file": "3448.txt",
+        "words": 142108
+      },
+      {
+        "file": "35172.txt",
+        "words": 142108
+      },
+      {
+        "file": "38186.txt",
+        "words": 142123
+      },
+      {
+        "file": "41493.txt",
+        "words": 142142
+      },
+      {
+        "file": "31358.txt",
+        "words": 142160
+      },
+      {
+        "file": "6627.txt",
+        "words": 142160
+      },
+      {
+        "file": "35298.txt",
+        "words": 142166
+      },
+      {
+        "file": "3310.txt",
+        "words": 142170
+      },
+      {
+        "file": "28284.txt",
+        "words": 142178
+      },
+      {
+        "file": "30323.txt",
+        "words": 142179
+      },
+      {
+        "file": "48042.txt",
+        "words": 142182
+      },
+      {
+        "file": "4043.txt",
+        "words": 142211
+      },
+      {
+        "file": "11313.txt",
+        "words": 142232
+      },
+      {
+        "file": "31729.txt",
+        "words": 142240
+      },
+      {
+        "file": "29219.txt",
+        "words": 142242
+      },
+      {
+        "file": "2311.txt",
+        "words": 142252
+      },
+      {
+        "file": "2396.txt",
+        "words": 142318
+      },
+      {
+        "file": "36516.txt",
+        "words": 142360
+      },
+      {
+        "file": "37345.txt",
+        "words": 142475
+      },
+      {
+        "file": "4607.txt",
+        "words": 142484
+      },
+      {
+        "file": "51135.txt",
+        "words": 142543
+      },
+      {
+        "file": "6173.txt",
+        "words": 142557
+      },
+      {
+        "file": "10984.txt",
+        "words": 142570
+      },
+      {
+        "file": "25119.txt",
+        "words": 142571
+      },
+      {
+        "file": "51637.txt",
+        "words": 142573
+      },
+      {
+        "file": "2484.txt",
+        "words": 142577
+      },
+      {
+        "file": "52495.txt",
+        "words": 142577
+      },
+      {
+        "file": "55626.txt",
+        "words": 142602
+      },
+      {
+        "file": "38399.txt",
+        "words": 142603
+      },
+      {
+        "file": "41279.txt",
+        "words": 142613
+      },
+      {
+        "file": "54614.txt",
+        "words": 142633
+      },
+      {
+        "file": "44362.txt",
+        "words": 142671
+      },
+      {
+        "file": "38038.txt",
+        "words": 142687
+      },
+      {
+        "file": "57126.txt",
+        "words": 142698
+      },
+      {
+        "file": "40782.txt",
+        "words": 142700
+      },
+      {
+        "file": "40485.txt",
+        "words": 142706
+      },
+      {
+        "file": "43894.txt",
+        "words": 142730
+      },
+      {
+        "file": "35756.txt",
+        "words": 142731
+      },
+      {
+        "file": "51117.txt",
+        "words": 142731
+      },
+      {
+        "file": "58606.txt",
+        "words": 142747
+      },
+      {
+        "file": "5328.txt",
+        "words": 142756
+      },
+      {
+        "file": "49345.txt",
+        "words": 142771
+      },
+      {
+        "file": "34000.txt",
+        "words": 142855
+      },
+      {
+        "file": "40631.txt",
+        "words": 142857
+      },
+      {
+        "file": "35271.txt",
+        "words": 142875
+      },
+      {
+        "file": "38173.txt",
+        "words": 142879
+      },
+      {
+        "file": "44210.txt",
+        "words": 142879
+      },
+      {
+        "file": "56984.txt",
+        "words": 142893
+      },
+      {
+        "file": "10315.txt",
+        "words": 142907
+      },
+      {
+        "file": "41463.txt",
+        "words": 142913
+      },
+      {
+        "file": "50498.txt",
+        "words": 142946
+      },
+      {
+        "file": "46782.txt",
+        "words": 142947
+      },
+      {
+        "file": "51991.txt",
+        "words": 142955
+      },
+      {
+        "file": "6060.txt",
+        "words": 143026
+      },
+      {
+        "file": "2056.txt",
+        "words": 143033
+      },
+      {
+        "file": "42891.txt",
+        "words": 143059
+      },
+      {
+        "file": "4932.txt",
+        "words": 143075
+      },
+      {
+        "file": "32446.txt",
+        "words": 143083
+      },
+      {
+        "file": "33810.txt",
+        "words": 143098
+      },
+      {
+        "file": "49999.txt",
+        "words": 143113
+      },
+      {
+        "file": "30726.txt",
+        "words": 143125
+      },
+      {
+        "file": "46354.txt",
+        "words": 143169
+      },
+      {
+        "file": "57166.txt",
+        "words": 143189
+      },
+      {
+        "file": "53224.txt",
+        "words": 143207
+      },
+      {
+        "file": "43792.txt",
+        "words": 143233
+      },
+      {
+        "file": "4311.txt",
+        "words": 143269
+      },
+      {
+        "file": "47344.txt",
+        "words": 143303
+      },
+      {
+        "file": "39190.txt",
+        "words": 143307
+      },
+      {
+        "file": "54800.txt",
+        "words": 143341
+      },
+      {
+        "file": "28294.txt",
+        "words": 143346
+      },
+      {
+        "file": "35755.txt",
+        "words": 143346
+      },
+      {
+        "file": "33707.txt",
+        "words": 143380
+      },
+      {
+        "file": "50510.txt",
+        "words": 143400
+      },
+      {
+        "file": "56118.txt",
+        "words": 143428
+      },
+      {
+        "file": "13549.txt",
+        "words": 143507
+      },
+      {
+        "file": "41625.txt",
+        "words": 143594
+      },
+      {
+        "file": "53915.txt",
+        "words": 143607
+      },
+      {
+        "file": "11212.txt",
+        "words": 143620
+      },
+      {
+        "file": "42460.txt",
+        "words": 143665
+      },
+      {
+        "file": "32983.txt",
+        "words": 143673
+      },
+      {
+        "file": "38735.txt",
+        "words": 143718
+      },
+      {
+        "file": "29246.txt",
+        "words": 143736
+      },
+      {
+        "file": "52939.txt",
+        "words": 143736
+      },
+      {
+        "file": "38687.txt",
+        "words": 143760
+      },
+      {
+        "file": "27869.txt",
+        "words": 143763
+      },
+      {
+        "file": "40114.txt",
+        "words": 143788
+      },
+      {
+        "file": "24902.txt",
+        "words": 143791
+      },
+      {
+        "file": "41930.txt",
+        "words": 143853
+      },
+      {
+        "file": "41582.txt",
+        "words": 143857
+      },
+      {
+        "file": "54061.txt",
+        "words": 143886
+      },
+      {
+        "file": "54992.txt",
+        "words": 143891
+      },
+      {
+        "file": "8638.txt",
+        "words": 143897
+      },
+      {
+        "file": "54733.txt",
+        "words": 143944
+      },
+      {
+        "file": "42438.txt",
+        "words": 143946
+      },
+      {
+        "file": "51660.txt",
+        "words": 144001
+      },
+      {
+        "file": "34490.txt",
+        "words": 144026
+      },
+      {
+        "file": "50586.txt",
+        "words": 144036
+      },
+      {
+        "file": "41538.txt",
+        "words": 144044
+      },
+      {
+        "file": "153.txt",
+        "words": 144070
+      },
+      {
+        "file": "28057.txt",
+        "words": 144082
+      },
+      {
+        "file": "46846.txt",
+        "words": 144085
+      },
+      {
+        "file": "1728.txt",
+        "words": 144090
+      },
+      {
+        "file": "45190.txt",
+        "words": 144091
+      },
+      {
+        "file": "3476.txt",
+        "words": 144098
+      },
+      {
+        "file": "22214.txt",
+        "words": 144107
+      },
+      {
+        "file": "35647.txt",
+        "words": 144118
+      },
+      {
+        "file": "57744.txt",
+        "words": 144139
+      },
+      {
+        "file": "50026.txt",
+        "words": 144151
+      },
+      {
+        "file": "44416.txt",
+        "words": 144160
+      },
+      {
+        "file": "10835.txt",
+        "words": 144193
+      },
+      {
+        "file": "40612.txt",
+        "words": 144230
+      },
+      {
+        "file": "58707.txt",
+        "words": 144231
+      },
+      {
+        "file": "1484.txt",
+        "words": 144241
+      },
+      {
+        "file": "34543.txt",
+        "words": 144287
+      },
+      {
+        "file": "10039.txt",
+        "words": 144309
+      },
+      {
+        "file": "53724.txt",
+        "words": 144333
+      },
+      {
+        "file": "28684.txt",
+        "words": 144337
+      },
+      {
+        "file": "56995.txt",
+        "words": 144364
+      },
+      {
+        "file": "36208.txt",
+        "words": 144388
+      },
+      {
+        "file": "41521.txt",
+        "words": 144423
+      },
+      {
+        "file": "29440.txt",
+        "words": 144424
+      },
+      {
+        "file": "55651.txt",
+        "words": 144450
+      },
+      {
+        "file": "3656.txt",
+        "words": 144459
+      },
+      {
+        "file": "53486.txt",
+        "words": 144462
+      },
+      {
+        "file": "21389.txt",
+        "words": 144467
+      },
+      {
+        "file": "1047.txt",
+        "words": 144487
+      },
+      {
+        "file": "53473.txt",
+        "words": 144494
+      },
+      {
+        "file": "245.txt",
+        "words": 144496
+      },
+      {
+        "file": "41082.txt",
+        "words": 144510
+      },
+      {
+        "file": "22259.txt",
+        "words": 144567
+      },
+      {
+        "file": "41411.txt",
+        "words": 144611
+      },
+      {
+        "file": "37906.txt",
+        "words": 144612
+      },
+      {
+        "file": "51897.txt",
+        "words": 144674
+      },
+      {
+        "file": "47211.txt",
+        "words": 144676
+      },
+      {
+        "file": "49517.txt",
+        "words": 144695
+      },
+      {
+        "file": "27410.txt",
+        "words": 144696
+      },
+      {
+        "file": "31324.txt",
+        "words": 144743
+      },
+      {
+        "file": "30110.txt",
+        "words": 144773
+      },
+      {
+        "file": "34246.txt",
+        "words": 144788
+      },
+      {
+        "file": "53346.txt",
+        "words": 144809
+      },
+      {
+        "file": "31524.txt",
+        "words": 144825
+      },
+      {
+        "file": "39238.txt",
+        "words": 144846
+      },
+      {
+        "file": "32308.txt",
+        "words": 144874
+      },
+      {
+        "file": "30031.txt",
+        "words": 144931
+      },
+      {
+        "file": "43092.txt",
+        "words": 144942
+      },
+      {
+        "file": "36776.txt",
+        "words": 144953
+      },
+      {
+        "file": "1917.txt",
+        "words": 144992
+      },
+      {
+        "file": "39735.txt",
+        "words": 145082
+      },
+      {
+        "file": "52641.txt",
+        "words": 145093
+      },
+      {
+        "file": "4315.txt",
+        "words": 145142
+      },
+      {
+        "file": "58100.txt",
+        "words": 145176
+      },
+      {
+        "file": "46202.txt",
+        "words": 145180
+      },
+      {
+        "file": "47787.txt",
+        "words": 145181
+      },
+      {
+        "file": "47337.txt",
+        "words": 145277
+      },
+      {
+        "file": "43672.txt",
+        "words": 145292
+      },
+      {
+        "file": "47308.txt",
+        "words": 145335
+      },
+      {
+        "file": "3803.txt",
+        "words": 145346
+      },
+      {
+        "file": "30541.txt",
+        "words": 145364
+      },
+      {
+        "file": "53967.txt",
+        "words": 145370
+      },
+      {
+        "file": "52603.txt",
+        "words": 145372
+      },
+      {
+        "file": "50422.txt",
+        "words": 145392
+      },
+      {
+        "file": "54788.txt",
+        "words": 145450
+      },
+      {
+        "file": "6798.txt",
+        "words": 145467
+      },
+      {
+        "file": "8160.txt",
+        "words": 145478
+      },
+      {
+        "file": "46481.txt",
+        "words": 145514
+      },
+      {
+        "file": "29294.txt",
+        "words": 145521
+      },
+      {
+        "file": "40860.txt",
+        "words": 145592
+      },
+      {
+        "file": "43553.txt",
+        "words": 145606
+      },
+      {
+        "file": "36852.txt",
+        "words": 145624
+      },
+      {
+        "file": "31681.txt",
+        "words": 145634
+      },
+      {
+        "file": "53968.txt",
+        "words": 145648
+      },
+      {
+        "file": "51246.txt",
+        "words": 145659
+      },
+      {
+        "file": "34192.txt",
+        "words": 145661
+      },
+      {
+        "file": "6769.txt",
+        "words": 145674
+      },
+      {
+        "file": "52862.txt",
+        "words": 145694
+      },
+      {
+        "file": "42583.txt",
+        "words": 145698
+      },
+      {
+        "file": "53323.txt",
+        "words": 145709
+      },
+      {
+        "file": "27742.txt",
+        "words": 145796
+      },
+      {
+        "file": "57532.txt",
+        "words": 145810
+      },
+      {
+        "file": "40864.txt",
+        "words": 145841
+      },
+      {
+        "file": "43106.txt",
+        "words": 145850
+      },
+      {
+        "file": "7037.txt",
+        "words": 145857
+      },
+      {
+        "file": "4584.txt",
+        "words": 145862
+      },
+      {
+        "file": "43489.txt",
+        "words": 145868
+      },
+      {
+        "file": "44190.txt",
+        "words": 145939
+      },
+      {
+        "file": "11323.txt",
+        "words": 145940
+      },
+      {
+        "file": "3327.txt",
+        "words": 145950
+      },
+      {
+        "file": "44548.txt",
+        "words": 146009
+      },
+      {
+        "file": "55470.txt",
+        "words": 146009
+      },
+      {
+        "file": "32341.txt",
+        "words": 146022
+      },
+      {
+        "file": "46953.txt",
+        "words": 146053
+      },
+      {
+        "file": "5257.txt",
+        "words": 146164
+      },
+      {
+        "file": "2331.txt",
+        "words": 146171
+      },
+      {
+        "file": "54955.txt",
+        "words": 146175
+      },
+      {
+        "file": "37890.txt",
+        "words": 146177
+      },
+      {
+        "file": "37545.txt",
+        "words": 146181
+      },
+      {
+        "file": "6311.txt",
+        "words": 146190
+      },
+      {
+        "file": "1745.txt",
+        "words": 146255
+      },
+      {
+        "file": "42488.txt",
+        "words": 146259
+      },
+      {
+        "file": "40858.txt",
+        "words": 146279
+      },
+      {
+        "file": "1748.txt",
+        "words": 146280
+      },
+      {
+        "file": "49221.txt",
+        "words": 146315
+      },
+      {
+        "file": "42995.txt",
+        "words": 146345
+      },
+      {
+        "file": "42313.txt",
+        "words": 146346
+      },
+      {
+        "file": "42027.txt",
+        "words": 146349
+      },
+      {
+        "file": "30720.txt",
+        "words": 146407
+      },
+      {
+        "file": "10998.txt",
+        "words": 146435
+      },
+      {
+        "file": "49447.txt",
+        "words": 146439
+      },
+      {
+        "file": "39474.txt",
+        "words": 146482
+      },
+      {
+        "file": "38688.txt",
+        "words": 146528
+      },
+      {
+        "file": "51950.txt",
+        "words": 146565
+      },
+      {
+        "file": "52060.txt",
+        "words": 146593
+      },
+      {
+        "file": "35527.txt",
+        "words": 146595
+      },
+      {
+        "file": "58232.txt",
+        "words": 146608
+      },
+      {
+        "file": "27000.txt",
+        "words": 146637
+      },
+      {
+        "file": "40633.txt",
+        "words": 146637
+      },
+      {
+        "file": "56400.txt",
+        "words": 146664
+      },
+      {
+        "file": "30227.txt",
+        "words": 146676
+      },
+      {
+        "file": "45909.txt",
+        "words": 146703
+      },
+      {
+        "file": "55570.txt",
+        "words": 146779
+      },
+      {
+        "file": "48804.txt",
+        "words": 146790
+      },
+      {
+        "file": "34143.txt",
+        "words": 146793
+      },
+      {
+        "file": "49953.txt",
+        "words": 146799
+      },
+      {
+        "file": "52684.txt",
+        "words": 146799
+      },
+      {
+        "file": "6701.txt",
+        "words": 146816
+      },
+      {
+        "file": "31557.txt",
+        "words": 146871
+      },
+      {
+        "file": "40483.txt",
+        "words": 146876
+      },
+      {
+        "file": "24934.txt",
+        "words": 146887
+      },
+      {
+        "file": "1939.txt",
+        "words": 146910
+      },
+      {
+        "file": "39092.txt",
+        "words": 146929
+      },
+      {
+        "file": "37872.txt",
+        "words": 146952
+      },
+      {
+        "file": "55903.txt",
+        "words": 147014
+      },
+      {
+        "file": "46744.txt",
+        "words": 147016
+      },
+      {
+        "file": "31455.txt",
+        "words": 147049
+      },
+      {
+        "file": "11050.txt",
+        "words": 147050
+      },
+      {
+        "file": "48603.txt",
+        "words": 147061
+      },
+      {
+        "file": "15214.txt",
+        "words": 147072
+      },
+      {
+        "file": "24550.txt",
+        "words": 147083
+      },
+      {
+        "file": "30755.txt",
+        "words": 147150
+      },
+      {
+        "file": "34580.txt",
+        "words": 147164
+      },
+      {
+        "file": "51455.txt",
+        "words": 147236
+      },
+      {
+        "file": "26316.txt",
+        "words": 147282
+      },
+      {
+        "file": "29893.txt",
+        "words": 147286
+      },
+      {
+        "file": "50054.txt",
+        "words": 147326
+      },
+      {
+        "file": "58359.txt",
+        "words": 147387
+      },
+      {
+        "file": "5199.txt",
+        "words": 147390
+      },
+      {
+        "file": "33113.txt",
+        "words": 147446
+      },
+      {
+        "file": "53969.txt",
+        "words": 147461
+      },
+      {
+        "file": "1630.txt",
+        "words": 147477
+      },
+      {
+        "file": "7063.txt",
+        "words": 147484
+      },
+      {
+        "file": "37788.txt",
+        "words": 147508
+      },
+      {
+        "file": "40143.txt",
+        "words": 147517
+      },
+      {
+        "file": "35338.txt",
+        "words": 147523
+      },
+      {
+        "file": "47534.txt",
+        "words": 147545
+      },
+      {
+        "file": "349.txt",
+        "words": 147547
+      },
+      {
+        "file": "58694.txt",
+        "words": 147568
+      },
+      {
+        "file": "57168.txt",
+        "words": 147671
+      },
+      {
+        "file": "51967.txt",
+        "words": 147675
+      },
+      {
+        "file": "47025.txt",
+        "words": 147677
+      },
+      {
+        "file": "25325.txt",
+        "words": 147702
+      },
+      {
+        "file": "55902.txt",
+        "words": 147706
+      },
+      {
+        "file": "47571.txt",
+        "words": 147707
+      },
+      {
+        "file": "52258.txt",
+        "words": 147708
+      },
+      {
+        "file": "25112.txt",
+        "words": 147709
+      },
+      {
+        "file": "39977.txt",
+        "words": 147711
+      },
+      {
+        "file": "37233.txt",
+        "words": 147722
+      },
+      {
+        "file": "10919.txt",
+        "words": 147735
+      },
+      {
+        "file": "58253.txt",
+        "words": 147864
+      },
+      {
+        "file": "12024.txt",
+        "words": 147887
+      },
+      {
+        "file": "3746.txt",
+        "words": 147891
+      },
+      {
+        "file": "41640.txt",
+        "words": 147916
+      },
+      {
+        "file": "42992.txt",
+        "words": 147953
+      },
+      {
+        "file": "8655.txt",
+        "words": 147969
+      },
+      {
+        "file": "56489.txt",
+        "words": 148030
+      },
+      {
+        "file": "36024.txt",
+        "words": 148065
+      },
+      {
+        "file": "34912.txt",
+        "words": 148123
+      },
+      {
+        "file": "27274.txt",
+        "words": 148138
+      },
+      {
+        "file": "45934.txt",
+        "words": 148147
+      },
+      {
+        "file": "28674.txt",
+        "words": 148148
+      },
+      {
+        "file": "8888.txt",
+        "words": 148192
+      },
+      {
+        "file": "52204.txt",
+        "words": 148196
+      },
+      {
+        "file": "53416.txt",
+        "words": 148212
+      },
+      {
+        "file": "48688.txt",
+        "words": 148228
+      },
+      {
+        "file": "43190.txt",
+        "words": 148252
+      },
+      {
+        "file": "10369.txt",
+        "words": 148264
+      },
+      {
+        "file": "52882.txt",
+        "words": 148268
+      },
+      {
+        "file": "42276.txt",
+        "words": 148273
+      },
+      {
+        "file": "36353.txt",
+        "words": 148276
+      },
+      {
+        "file": "41971.txt",
+        "words": 148295
+      },
+      {
+        "file": "39535.txt",
+        "words": 148336
+      },
+      {
+        "file": "2456.txt",
+        "words": 148344
+      },
+      {
+        "file": "31869.txt",
+        "words": 148363
+      },
+      {
+        "file": "58711.txt",
+        "words": 148367
+      },
+      {
+        "file": "3883.txt",
+        "words": 148373
+      },
+      {
+        "file": "2160.txt",
+        "words": 148378
+      },
+      {
+        "file": "35750.txt",
+        "words": 148414
+      },
+      {
+        "file": "41485.txt",
+        "words": 148422
+      },
+      {
+        "file": "51030.txt",
+        "words": 148429
+      },
+      {
+        "file": "23354.txt",
+        "words": 148442
+      },
+      {
+        "file": "46976.txt",
+        "words": 148558
+      },
+      {
+        "file": "41833.txt",
+        "words": 148583
+      },
+      {
+        "file": "110.txt",
+        "words": 148590
+      },
+      {
+        "file": "10379.txt",
+        "words": 148634
+      },
+      {
+        "file": "10381.txt",
+        "words": 148646
+      },
+      {
+        "file": "4330.txt",
+        "words": 148650
+      },
+      {
+        "file": "32690.txt",
+        "words": 148665
+      },
+      {
+        "file": "39180.txt",
+        "words": 148674
+      },
+      {
+        "file": "38432.txt",
+        "words": 148686
+      },
+      {
+        "file": "36576.txt",
+        "words": 148696
+      },
+      {
+        "file": "42413.txt",
+        "words": 148698
+      },
+      {
+        "file": "57907.txt",
+        "words": 148786
+      },
+      {
+        "file": "46652.txt",
+        "words": 148833
+      },
+      {
+        "file": "54502.txt",
+        "words": 148870
+      },
+      {
+        "file": "58224.txt",
+        "words": 148904
+      },
+      {
+        "file": "42706.txt",
+        "words": 148951
+      },
+      {
+        "file": "47730.txt",
+        "words": 148961
+      },
+      {
+        "file": "50493.txt",
+        "words": 148961
+      },
+      {
+        "file": "42978.txt",
+        "words": 148980
+      },
+      {
+        "file": "25660.txt",
+        "words": 148982
+      },
+      {
+        "file": "40712.txt",
+        "words": 148997
+      },
+      {
+        "file": "51003.txt",
+        "words": 149031
+      },
+      {
+        "file": "8778.txt",
+        "words": 149106
+      },
+      {
+        "file": "1565.txt",
+        "words": 149138
+      },
+      {
+        "file": "41220.txt",
+        "words": 149142
+      },
+      {
+        "file": "140.txt",
+        "words": 149143
+      },
+      {
+        "file": "2881.txt",
+        "words": 149216
+      },
+      {
+        "file": "31769.txt",
+        "words": 149235
+      },
+      {
+        "file": "3446.txt",
+        "words": 149244
+      },
+      {
+        "file": "47119.txt",
+        "words": 149253
+      },
+      {
+        "file": "38629.txt",
+        "words": 149286
+      },
+      {
+        "file": "7229.txt",
+        "words": 149294
+      },
+      {
+        "file": "57399.txt",
+        "words": 149312
+      },
+      {
+        "file": "28033.txt",
+        "words": 149349
+      },
+      {
+        "file": "41359.txt",
+        "words": 149378
+      },
+      {
+        "file": "39179.txt",
+        "words": 149400
+      },
+      {
+        "file": "44395.txt",
+        "words": 149426
+      },
+      {
+        "file": "30623.txt",
+        "words": 149428
+      },
+      {
+        "file": "39366.txt",
+        "words": 149429
+      },
+      {
+        "file": "28369.txt",
+        "words": 149457
+      },
+      {
+        "file": "32342.txt",
+        "words": 149462
+      },
+      {
+        "file": "41817.txt",
+        "words": 149530
+      },
+      {
+        "file": "34428.txt",
+        "words": 149533
+      },
+      {
+        "file": "33624.txt",
+        "words": 149579
+      },
+      {
+        "file": "35702.txt",
+        "words": 149624
+      },
+      {
+        "file": "38311.txt",
+        "words": 149683
+      },
+      {
+        "file": "44593.txt",
+        "words": 149709
+      },
+      {
+        "file": "31623.txt",
+        "words": 149725
+      },
+      {
+        "file": "52077.txt",
+        "words": 149755
+      },
+      {
+        "file": "53177.txt",
+        "words": 149763
+      },
+      {
+        "file": "52589.txt",
+        "words": 149772
+      },
+      {
+        "file": "33999.txt",
+        "words": 149794
+      },
+      {
+        "file": "10615.txt",
+        "words": 149800
+      },
+      {
+        "file": "22961.txt",
+        "words": 149877
+      },
+      {
+        "file": "50423.txt",
+        "words": 149885
+      },
+      {
+        "file": "46479.txt",
+        "words": 149928
+      },
+      {
+        "file": "35781.txt",
+        "words": 149964
+      },
+      {
+        "file": "2455.txt",
+        "words": 149967
+      },
+      {
+        "file": "45617.txt",
+        "words": 149992
+      },
+      {
+        "file": "10341.txt",
+        "words": 149993
+      },
+      {
+        "file": "48736.txt",
+        "words": 150008
+      },
+      {
+        "file": "52723.txt",
+        "words": 150014
+      },
+      {
+        "file": "10365.txt",
+        "words": 150031
+      },
+      {
+        "file": "31185.txt",
+        "words": 150106
+      },
+      {
+        "file": "58776.txt",
+        "words": 150120
+      },
+      {
+        "file": "37282.txt",
+        "words": 150152
+      },
+      {
+        "file": "44143.txt",
+        "words": 150153
+      },
+      {
+        "file": "42365.txt",
+        "words": 150163
+      },
+      {
+        "file": "45128.txt",
+        "words": 150201
+      },
+      {
+        "file": "4171.txt",
+        "words": 150244
+      },
+      {
+        "file": "52940.txt",
+        "words": 150284
+      },
+      {
+        "file": "6474.txt",
+        "words": 150285
+      },
+      {
+        "file": "54226.txt",
+        "words": 150292
+      },
+      {
+        "file": "39326.txt",
+        "words": 150294
+      },
+      {
+        "file": "43352.txt",
+        "words": 150324
+      },
+      {
+        "file": "25622.txt",
+        "words": 150383
+      },
+      {
+        "file": "7835.txt",
+        "words": 150427
+      },
+      {
+        "file": "39540.txt",
+        "words": 150430
+      },
+      {
+        "file": "10939.txt",
+        "words": 150445
+      },
+      {
+        "file": "30115.txt",
+        "words": 150479
+      },
+      {
+        "file": "38495.txt",
+        "words": 150518
+      },
+      {
+        "file": "55025.txt",
+        "words": 150529
+      },
+      {
+        "file": "43468.txt",
+        "words": 150532
+      },
+      {
+        "file": "57581.txt",
+        "words": 150550
+      },
+      {
+        "file": "28012.txt",
+        "words": 150555
+      },
+      {
+        "file": "42355.txt",
+        "words": 150557
+      },
+      {
+        "file": "39747.txt",
+        "words": 150615
+      },
+      {
+        "file": "39201.txt",
+        "words": 150628
+      },
+      {
+        "file": "5969.txt",
+        "words": 150695
+      },
+      {
+        "file": "50328.txt",
+        "words": 150734
+      },
+      {
+        "file": "4522.txt",
+        "words": 150737
+      },
+      {
+        "file": "49003.txt",
+        "words": 150796
+      },
+      {
+        "file": "51174.txt",
+        "words": 150886
+      },
+      {
+        "file": "47726.txt",
+        "words": 150888
+      },
+      {
+        "file": "30606.txt",
+        "words": 150899
+      },
+      {
+        "file": "56654.txt",
+        "words": 150929
+      },
+      {
+        "file": "26828.txt",
+        "words": 150931
+      },
+      {
+        "file": "43707.txt",
+        "words": 150948
+      },
+      {
+        "file": "33385.txt",
+        "words": 150961
+      },
+      {
+        "file": "49668.txt",
+        "words": 150967
+      },
+      {
+        "file": "26992.txt",
+        "words": 150977
+      },
+      {
+        "file": "53874.txt",
+        "words": 151019
+      },
+      {
+        "file": "44.txt",
+        "words": 151032
+      },
+      {
+        "file": "53916.txt",
+        "words": 151042
+      },
+      {
+        "file": "42180.txt",
+        "words": 151054
+      },
+      {
+        "file": "1848.txt",
+        "words": 151065
+      },
+      {
+        "file": "33022.txt",
+        "words": 151072
+      },
+      {
+        "file": "58799.txt",
+        "words": 151102
+      },
+      {
+        "file": "55628.txt",
+        "words": 151138
+      },
+      {
+        "file": "48771.txt",
+        "words": 151160
+      },
+      {
+        "file": "36556.txt",
+        "words": 151166
+      },
+      {
+        "file": "52566.txt",
+        "words": 151219
+      },
+      {
+        "file": "55108.txt",
+        "words": 151248
+      },
+      {
+        "file": "2125.txt",
+        "words": 151262
+      },
+      {
+        "file": "31984.txt",
+        "words": 151277
+      },
+      {
+        "file": "25948.txt",
+        "words": 151281
+      },
+      {
+        "file": "43431.txt",
+        "words": 151291
+      },
+      {
+        "file": "42993.txt",
+        "words": 151337
+      },
+      {
+        "file": "48137.txt",
+        "words": 151367
+      },
+      {
+        "file": "32969.txt",
+        "words": 151408
+      },
+      {
+        "file": "52391.txt",
+        "words": 151459
+      },
+      {
+        "file": "37610.txt",
+        "words": 151489
+      },
+      {
+        "file": "10151.txt",
+        "words": 151492
+      },
+      {
+        "file": "33556.txt",
+        "words": 151492
+      },
+      {
+        "file": "55825.txt",
+        "words": 151524
+      },
+      {
+        "file": "27371.txt",
+        "words": 151534
+      },
+      {
+        "file": "43331.txt",
+        "words": 151574
+      },
+      {
+        "file": "10038.txt",
+        "words": 151599
+      },
+      {
+        "file": "4002.txt",
+        "words": 151656
+      },
+      {
+        "file": "4426.txt",
+        "words": 151659
+      },
+      {
+        "file": "28998.txt",
+        "words": 151713
+      },
+      {
+        "file": "56018.txt",
+        "words": 151724
+      },
+      {
+        "file": "55360.txt",
+        "words": 151737
+      },
+      {
+        "file": "53549.txt",
+        "words": 151739
+      },
+      {
+        "file": "36336.txt",
+        "words": 151748
+      },
+      {
+        "file": "10128.txt",
+        "words": 151766
+      },
+      {
+        "file": "36071.txt",
+        "words": 151771
+      },
+      {
+        "file": "18575.txt",
+        "words": 151789
+      },
+      {
+        "file": "32692.txt",
+        "words": 151790
+      },
+      {
+        "file": "42082.txt",
+        "words": 151842
+      },
+      {
+        "file": "54886.txt",
+        "words": 151847
+      },
+      {
+        "file": "2077.txt",
+        "words": 151862
+      },
+      {
+        "file": "2581.txt",
+        "words": 151864
+      },
+      {
+        "file": "56464.txt",
+        "words": 151867
+      },
+      {
+        "file": "58133.txt",
+        "words": 151891
+      },
+      {
+        "file": "1866.txt",
+        "words": 151896
+      },
+      {
+        "file": "4646.txt",
+        "words": 151896
+      },
+      {
+        "file": "53205.txt",
+        "words": 151908
+      },
+      {
+        "file": "26327.txt",
+        "words": 152011
+      },
+      {
+        "file": "33086.txt",
+        "words": 152083
+      },
+      {
+        "file": "34970.txt",
+        "words": 152148
+      },
+      {
+        "file": "25029.txt",
+        "words": 152155
+      },
+      {
+        "file": "47316.txt",
+        "words": 152160
+      },
+      {
+        "file": "45848.txt",
+        "words": 152173
+      },
+      {
+        "file": "46347.txt",
+        "words": 152257
+      },
+      {
+        "file": "53679.txt",
+        "words": 152275
+      },
+      {
+        "file": "34612.txt",
+        "words": 152276
+      },
+      {
+        "file": "10509.txt",
+        "words": 152279
+      },
+      {
+        "file": "7304.txt",
+        "words": 152360
+      },
+      {
+        "file": "47372.txt",
+        "words": 152361
+      },
+      {
+        "file": "6485.txt",
+        "words": 152363
+      },
+      {
+        "file": "33797.txt",
+        "words": 152428
+      },
+      {
+        "file": "10669.txt",
+        "words": 152430
+      },
+      {
+        "file": "48076.txt",
+        "words": 152461
+      },
+      {
+        "file": "49954.txt",
+        "words": 152461
+      },
+      {
+        "file": "44573.txt",
+        "words": 152519
+      },
+      {
+        "file": "57942.txt",
+        "words": 152579
+      },
+      {
+        "file": "42146.txt",
+        "words": 152593
+      },
+      {
+        "file": "43404.txt",
+        "words": 152595
+      },
+      {
+        "file": "40870.txt",
+        "words": 152609
+      },
+      {
+        "file": "27372.txt",
+        "words": 152663
+      },
+      {
+        "file": "41332.txt",
+        "words": 152713
+      },
+      {
+        "file": "2199.txt",
+        "words": 152720
+      },
+      {
+        "file": "35333.txt",
+        "words": 152775
+      },
+      {
+        "file": "52779.txt",
+        "words": 152798
+      },
+      {
+        "file": "50440.txt",
+        "words": 152817
+      },
+      {
+        "file": "40871.txt",
+        "words": 152822
+      },
+      {
+        "file": "6446.txt",
+        "words": 152860
+      },
+      {
+        "file": "30186.txt",
+        "words": 152882
+      },
+      {
+        "file": "49294.txt",
+        "words": 152883
+      },
+      {
+        "file": "1068.txt",
+        "words": 152886
+      },
+      {
+        "file": "55314.txt",
+        "words": 152892
+      },
+      {
+        "file": "38081.txt",
+        "words": 152906
+      },
+      {
+        "file": "25340.txt",
+        "words": 152936
+      },
+      {
+        "file": "42578.txt",
+        "words": 152939
+      },
+      {
+        "file": "58411.txt",
+        "words": 152949
+      },
+      {
+        "file": "44633.txt",
+        "words": 152979
+      },
+      {
+        "file": "38520.txt",
+        "words": 152982
+      },
+      {
+        "file": "5551.txt",
+        "words": 152995
+      },
+      {
+        "file": "42994.txt",
+        "words": 153027
+      },
+      {
+        "file": "40126.txt",
+        "words": 153064
+      },
+      {
+        "file": "18310.txt",
+        "words": 153065
+      },
+      {
+        "file": "38478.txt",
+        "words": 153086
+      },
+      {
+        "file": "47110.txt",
+        "words": 153088
+      },
+      {
+        "file": "10884.txt",
+        "words": 153093
+      },
+      {
+        "file": "51164.txt",
+        "words": 153106
+      },
+      {
+        "file": "49472.txt",
+        "words": 153127
+      },
+      {
+        "file": "53263.txt",
+        "words": 153140
+      },
+      {
+        "file": "6702.txt",
+        "words": 153146
+      },
+      {
+        "file": "3832.txt",
+        "words": 153224
+      },
+      {
+        "file": "40922.txt",
+        "words": 153258
+      },
+      {
+        "file": "35575.txt",
+        "words": 153306
+      },
+      {
+        "file": "41095.txt",
+        "words": 153307
+      },
+      {
+        "file": "6615.txt",
+        "words": 153307
+      },
+      {
+        "file": "28544.txt",
+        "words": 153309
+      },
+      {
+        "file": "53383.txt",
+        "words": 153370
+      },
+      {
+        "file": "53629.txt",
+        "words": 153384
+      },
+      {
+        "file": "7984.txt",
+        "words": 153384
+      },
+      {
+        "file": "10935.txt",
+        "words": 153386
+      },
+      {
+        "file": "360.txt",
+        "words": 153394
+      },
+      {
+        "file": "36235.txt",
+        "words": 153432
+      },
+      {
+        "file": "54347.txt",
+        "words": 153440
+      },
+      {
+        "file": "27704.txt",
+        "words": 153454
+      },
+      {
+        "file": "37898.txt",
+        "words": 153461
+      },
+      {
+        "file": "45761.txt",
+        "words": 153468
+      },
+      {
+        "file": "56536.txt",
+        "words": 153478
+      },
+      {
+        "file": "4327.txt",
+        "words": 153520
+      },
+      {
+        "file": "26524.txt",
+        "words": 153548
+      },
+      {
+        "file": "1008.txt",
+        "words": 153582
+      },
+      {
+        "file": "2802.txt",
+        "words": 153604
+      },
+      {
+        "file": "10691.txt",
+        "words": 153617
+      },
+      {
+        "file": "4470.txt",
+        "words": 153733
+      },
+      {
+        "file": "50302.txt",
+        "words": 153752
+      },
+      {
+        "file": "2664.txt",
+        "words": 153783
+      },
+      {
+        "file": "38454.txt",
+        "words": 153783
+      },
+      {
+        "file": "43577.txt",
+        "words": 153842
+      },
+      {
+        "file": "4969.txt",
+        "words": 153873
+      },
+      {
+        "file": "39344.txt",
+        "words": 153878
+      },
+      {
+        "file": "56143.txt",
+        "words": 153884
+      },
+      {
+        "file": "50797.txt",
+        "words": 153933
+      },
+      {
+        "file": "52663.txt",
+        "words": 153958
+      },
+      {
+        "file": "45939.txt",
+        "words": 153959
+      },
+      {
+        "file": "22879.txt",
+        "words": 153964
+      },
+      {
+        "file": "49009.txt",
+        "words": 154000
+      },
+      {
+        "file": "40676.txt",
+        "words": 154135
+      },
+      {
+        "file": "55324.txt",
+        "words": 154149
+      },
+      {
+        "file": "16274.txt",
+        "words": 154152
+      },
+      {
+        "file": "25971.txt",
+        "words": 154156
+      },
+      {
+        "file": "25912.txt",
+        "words": 154176
+      },
+      {
+        "file": "50551.txt",
+        "words": 154189
+      },
+      {
+        "file": "44311.txt",
+        "words": 154193
+      },
+      {
+        "file": "26170.txt",
+        "words": 154216
+      },
+      {
+        "file": "56865.txt",
+        "words": 154233
+      },
+      {
+        "file": "36156.txt",
+        "words": 154248
+      },
+      {
+        "file": "47499.txt",
+        "words": 154297
+      },
+      {
+        "file": "37853.txt",
+        "words": 154359
+      },
+      {
+        "file": "2647.txt",
+        "words": 154362
+      },
+      {
+        "file": "30274.txt",
+        "words": 154386
+      },
+      {
+        "file": "31409.txt",
+        "words": 154418
+      },
+      {
+        "file": "44166.txt",
+        "words": 154444
+      },
+      {
+        "file": "1749.txt",
+        "words": 154545
+      },
+      {
+        "file": "40657.txt",
+        "words": 154553
+      },
+      {
+        "file": "38510.txt",
+        "words": 154567
+      },
+      {
+        "file": "51265.txt",
+        "words": 154576
+      },
+      {
+        "file": "6050.txt",
+        "words": 154626
+      },
+      {
+        "file": "29143.txt",
+        "words": 154676
+      },
+      {
+        "file": "36583.txt",
+        "words": 154688
+      },
+      {
+        "file": "19694.txt",
+        "words": 154692
+      },
+      {
+        "file": "7303.txt",
+        "words": 154693
+      },
+      {
+        "file": "36403.txt",
+        "words": 154717
+      },
+      {
+        "file": "26658.txt",
+        "words": 154752
+      },
+      {
+        "file": "25821.txt",
+        "words": 154781
+      },
+      {
+        "file": "45205.txt",
+        "words": 154786
+      },
+      {
+        "file": "47535.txt",
+        "words": 154821
+      },
+      {
+        "file": "34905.txt",
+        "words": 154840
+      },
+      {
+        "file": "23564.txt",
+        "words": 154876
+      },
+      {
+        "file": "12229.txt",
+        "words": 154884
+      },
+      {
+        "file": "2675.txt",
+        "words": 154974
+      },
+      {
+        "file": "28758.txt",
+        "words": 155038
+      },
+      {
+        "file": "54053.txt",
+        "words": 155113
+      },
+      {
+        "file": "46858.txt",
+        "words": 155194
+      },
+      {
+        "file": "3702.txt",
+        "words": 155206
+      },
+      {
+        "file": "25429.txt",
+        "words": 155214
+      },
+      {
+        "file": "28361.txt",
+        "words": 155230
+      },
+      {
+        "file": "3293.txt",
+        "words": 155243
+      },
+      {
+        "file": "49402.txt",
+        "words": 155422
+      },
+      {
+        "file": "1228.txt",
+        "words": 155423
+      },
+      {
+        "file": "43031.txt",
+        "words": 155426
+      },
+      {
+        "file": "39701.txt",
+        "words": 155514
+      },
+      {
+        "file": "44329.txt",
+        "words": 155544
+      },
+      {
+        "file": "2578.txt",
+        "words": 155583
+      },
+      {
+        "file": "35092.txt",
+        "words": 155587
+      },
+      {
+        "file": "16914.txt",
+        "words": 155597
+      },
+      {
+        "file": "29438.txt",
+        "words": 155599
+      },
+      {
+        "file": "28248.txt",
+        "words": 155612
+      },
+      {
+        "file": "35935.txt",
+        "words": 155626
+      },
+      {
+        "file": "4224.txt",
+        "words": 155630
+      },
+      {
+        "file": "40660.txt",
+        "words": 155644
+      },
+      {
+        "file": "47220.txt",
+        "words": 155683
+      },
+      {
+        "file": "43221.txt",
+        "words": 155734
+      },
+      {
+        "file": "8203.txt",
+        "words": 155764
+      },
+      {
+        "file": "8600.txt",
+        "words": 155823
+      },
+      {
+        "file": "2083.txt",
+        "words": 155828
+      },
+      {
+        "file": "10149.txt",
+        "words": 155841
+      },
+      {
+        "file": "34224.txt",
+        "words": 155848
+      },
+      {
+        "file": "27507.txt",
+        "words": 155851
+      },
+      {
+        "file": "28629.txt",
+        "words": 155883
+      },
+      {
+        "file": "44686.txt",
+        "words": 155918
+      },
+      {
+        "file": "47228.txt",
+        "words": 155952
+      },
+      {
+        "file": "1218.txt",
+        "words": 155957
+      },
+      {
+        "file": "233.txt",
+        "words": 155979
+      },
+      {
+        "file": "32875.txt",
+        "words": 156014
+      },
+      {
+        "file": "43222.txt",
+        "words": 156027
+      },
+      {
+        "file": "3669.txt",
+        "words": 156032
+      },
+      {
+        "file": "43605.txt",
+        "words": 156041
+      },
+      {
+        "file": "6933.txt",
+        "words": 156065
+      },
+      {
+        "file": "42125.txt",
+        "words": 156108
+      },
+      {
+        "file": "39442.txt",
+        "words": 156142
+      },
+      {
+        "file": "49483.txt",
+        "words": 156148
+      },
+      {
+        "file": "50125.txt",
+        "words": 156161
+      },
+      {
+        "file": "52156.txt",
+        "words": 156188
+      },
+      {
+        "file": "43946.txt",
+        "words": 156199
+      },
+      {
+        "file": "46641.txt",
+        "words": 156238
+      },
+      {
+        "file": "4488.txt",
+        "words": 156239
+      },
+      {
+        "file": "7974.txt",
+        "words": 156269
+      },
+      {
+        "file": "56957.txt",
+        "words": 156307
+      },
+      {
+        "file": "50325.txt",
+        "words": 156325
+      },
+      {
+        "file": "48984.txt",
+        "words": 156340
+      },
+      {
+        "file": "5267.txt",
+        "words": 156354
+      },
+      {
+        "file": "48782.txt",
+        "words": 156396
+      },
+      {
+        "file": "46975.txt",
+        "words": 156397
+      },
+      {
+        "file": "34862.txt",
+        "words": 156399
+      },
+      {
+        "file": "54801.txt",
+        "words": 156416
+      },
+      {
+        "file": "286.txt",
+        "words": 156428
+      },
+      {
+        "file": "39298.txt",
+        "words": 156494
+      },
+      {
+        "file": "6841.txt",
+        "words": 156494
+      },
+      {
+        "file": "119.txt",
+        "words": 156525
+      },
+      {
+        "file": "41899.txt",
+        "words": 156543
+      },
+      {
+        "file": "28524.txt",
+        "words": 156570
+      },
+      {
+        "file": "29875.txt",
+        "words": 156593
+      },
+      {
+        "file": "38401.txt",
+        "words": 156617
+      },
+      {
+        "file": "26337.txt",
+        "words": 156670
+      },
+      {
+        "file": "35664.txt",
+        "words": 156685
+      },
+      {
+        "file": "39341.txt",
+        "words": 156710
+      },
+      {
+        "file": "47157.txt",
+        "words": 156745
+      },
+      {
+        "file": "40400.txt",
+        "words": 156748
+      },
+      {
+        "file": "3442.txt",
+        "words": 156813
+      },
+      {
+        "file": "51881.txt",
+        "words": 156819
+      },
+      {
+        "file": "5754.txt",
+        "words": 156822
+      },
+      {
+        "file": "27562.txt",
+        "words": 156848
+      },
+      {
+        "file": "48966.txt",
+        "words": 156851
+      },
+      {
+        "file": "3436.txt",
+        "words": 156864
+      },
+      {
+        "file": "38710.txt",
+        "words": 156877
+      },
+      {
+        "file": "5773.txt",
+        "words": 156905
+      },
+      {
+        "file": "39655.txt",
+        "words": 156938
+      },
+      {
+        "file": "25712.txt",
+        "words": 157001
+      },
+      {
+        "file": "31004.txt",
+        "words": 157020
+      },
+      {
+        "file": "35403.txt",
+        "words": 157031
+      },
+      {
+        "file": "10990.txt",
+        "words": 157095
+      },
+      {
+        "file": "47532.txt",
+        "words": 157141
+      },
+      {
+        "file": "5032.txt",
+        "words": 157169
+      },
+      {
+        "file": "4145.txt",
+        "words": 157181
+      },
+      {
+        "file": "42455.txt",
+        "words": 157204
+      },
+      {
+        "file": "43576.txt",
+        "words": 157227
+      },
+      {
+        "file": "45682.txt",
+        "words": 157228
+      },
+      {
+        "file": "46818.txt",
+        "words": 157285
+      },
+      {
+        "file": "50427.txt",
+        "words": 157286
+      },
+      {
+        "file": "41218.txt",
+        "words": 157288
+      },
+      {
+        "file": "51191.txt",
+        "words": 157289
+      },
+      {
+        "file": "54392.txt",
+        "words": 157291
+      },
+      {
+        "file": "55829.txt",
+        "words": 157310
+      },
+      {
+        "file": "45366.txt",
+        "words": 157317
+      },
+      {
+        "file": "50220.txt",
+        "words": 157329
+      },
+      {
+        "file": "42108.txt",
+        "words": 157347
+      },
+      {
+        "file": "46046.txt",
+        "words": 157348
+      },
+      {
+        "file": "42303.txt",
+        "words": 157385
+      },
+      {
+        "file": "4526.txt",
+        "words": 157426
+      },
+      {
+        "file": "158.txt",
+        "words": 157456
+      },
+      {
+        "file": "46947.txt",
+        "words": 157470
+      },
+      {
+        "file": "53809.txt",
+        "words": 157530
+      },
+      {
+        "file": "47436.txt",
+        "words": 157559
+      },
+      {
+        "file": "34408.txt",
+        "words": 157610
+      },
+      {
+        "file": "58740.txt",
+        "words": 157663
+      },
+      {
+        "file": "43604.txt",
+        "words": 157744
+      },
+      {
+        "file": "10940.txt",
+        "words": 157755
+      },
+      {
+        "file": "27253.txt",
+        "words": 157760
+      },
+      {
+        "file": "49572.txt",
+        "words": 157775
+      },
+      {
+        "file": "21339.txt",
+        "words": 157791
+      },
+      {
+        "file": "23034.txt",
+        "words": 157878
+      },
+      {
+        "file": "39723.txt",
+        "words": 157976
+      },
+      {
+        "file": "31195.txt",
+        "words": 158004
+      },
+      {
+        "file": "730.txt",
+        "words": 158006
+      },
+      {
+        "file": "47348.txt",
+        "words": 158010
+      },
+      {
+        "file": "37100.txt",
+        "words": 158018
+      },
+      {
+        "file": "3760.txt",
+        "words": 158033
+      },
+      {
+        "file": "46675.txt",
+        "words": 158058
+      },
+      {
+        "file": "38501.txt",
+        "words": 158125
+      },
+      {
+        "file": "47390.txt",
+        "words": 158151
+      },
+      {
+        "file": "750.txt",
+        "words": 158182
+      },
+      {
+        "file": "38420.txt",
+        "words": 158220
+      },
+      {
+        "file": "7893.txt",
+        "words": 158301
+      },
+      {
+        "file": "31950.txt",
+        "words": 158327
+      },
+      {
+        "file": "10938.txt",
+        "words": 158379
+      },
+      {
+        "file": "55426.txt",
+        "words": 158400
+      },
+      {
+        "file": "43820.txt",
+        "words": 158405
+      },
+      {
+        "file": "46722.txt",
+        "words": 158428
+      },
+      {
+        "file": "56486.txt",
+        "words": 158442
+      },
+      {
+        "file": "40634.txt",
+        "words": 158455
+      },
+      {
+        "file": "29869.txt",
+        "words": 158461
+      },
+      {
+        "file": "48323.txt",
+        "words": 158462
+      },
+      {
+        "file": "6849.txt",
+        "words": 158467
+      },
+      {
+        "file": "14454.txt",
+        "words": 158474
+      },
+      {
+        "file": "48268.txt",
+        "words": 158499
+      },
+      {
+        "file": "7614.txt",
+        "words": 158520
+      },
+      {
+        "file": "45596.txt",
+        "words": 158522
+      },
+      {
+        "file": "28282.txt",
+        "words": 158567
+      },
+      {
+        "file": "51374.txt",
+        "words": 158586
+      },
+      {
+        "file": "34172.txt",
+        "words": 158615
+      },
+      {
+        "file": "3178.txt",
+        "words": 158640
+      },
+      {
+        "file": "25701.txt",
+        "words": 158666
+      },
+      {
+        "file": "50518.txt",
+        "words": 158706
+      },
+      {
+        "file": "2464.txt",
+        "words": 158752
+      },
+      {
+        "file": "50350.txt",
+        "words": 158767
+      },
+      {
+        "file": "36642.txt",
+        "words": 158840
+      },
+      {
+        "file": "43198.txt",
+        "words": 158846
+      },
+      {
+        "file": "2563.txt",
+        "words": 158973
+      },
+      {
+        "file": "56340.txt",
+        "words": 158996
+      },
+      {
+        "file": "2082.txt",
+        "words": 159003
+      },
+      {
+        "file": "19569.txt",
+        "words": 159064
+      },
+      {
+        "file": "44885.txt",
+        "words": 159079
+      },
+      {
+        "file": "1235.txt",
+        "words": 159106
+      },
+      {
+        "file": "53395.txt",
+        "words": 159106
+      },
+      {
+        "file": "7777.txt",
+        "words": 159160
+      },
+      {
+        "file": "56987.txt",
+        "words": 159197
+      },
+      {
+        "file": "31271.txt",
+        "words": 159253
+      },
+      {
+        "file": "52576.txt",
+        "words": 159297
+      },
+      {
+        "file": "47135.txt",
+        "words": 159324
+      },
+      {
+        "file": "44703.txt",
+        "words": 159326
+      },
+      {
+        "file": "42154.txt",
+        "words": 159334
+      },
+      {
+        "file": "4346.txt",
+        "words": 159346
+      },
+      {
+        "file": "4345.txt",
+        "words": 159358
+      },
+      {
+        "file": "27288.txt",
+        "words": 159363
+      },
+      {
+        "file": "56402.txt",
+        "words": 159447
+      },
+      {
+        "file": "55091.txt",
+        "words": 159470
+      },
+      {
+        "file": "55262.txt",
+        "words": 159472
+      },
+      {
+        "file": "18684.txt",
+        "words": 159490
+      },
+      {
+        "file": "4984.txt",
+        "words": 159497
+      },
+      {
+        "file": "141.txt",
+        "words": 159558
+      },
+      {
+        "file": "47130.txt",
+        "words": 159561
+      },
+      {
+        "file": "47214.txt",
+        "words": 159582
+      },
+      {
+        "file": "8202.txt",
+        "words": 159606
+      },
+      {
+        "file": "51209.txt",
+        "words": 159612
+      },
+      {
+        "file": "38460.txt",
+        "words": 159670
+      },
+      {
+        "file": "35792.txt",
+        "words": 159697
+      },
+      {
+        "file": "29341.txt",
+        "words": 159718
+      },
+      {
+        "file": "6148.txt",
+        "words": 159725
+      },
+      {
+        "file": "40242.txt",
+        "words": 159732
+      },
+      {
+        "file": "28329.txt",
+        "words": 159788
+      },
+      {
+        "file": "56980.txt",
+        "words": 159789
+      },
+      {
+        "file": "54687.txt",
+        "words": 159796
+      },
+      {
+        "file": "43069.txt",
+        "words": 159800
+      },
+      {
+        "file": "3020.txt",
+        "words": 159824
+      },
+      {
+        "file": "44646.txt",
+        "words": 159829
+      },
+      {
+        "file": "44235.txt",
+        "words": 159870
+      },
+      {
+        "file": "5560.txt",
+        "words": 159921
+      },
+      {
+        "file": "49650.txt",
+        "words": 159996
+      }
+    ]
+  },
+  "160k - 192k": {
+    "count": 864,
+    "files": [
+      {
+        "file": "39044.txt",
+        "words": 160036
+      },
+      {
+        "file": "40398.txt",
+        "words": 160074
+      },
+      {
+        "file": "46630.txt",
+        "words": 160095
+      },
+      {
+        "file": "38452.txt",
+        "words": 160185
+      },
+      {
+        "file": "24526.txt",
+        "words": 160202
+      },
+      {
+        "file": "26572.txt",
+        "words": 160204
+      },
+      {
+        "file": "52819.txt",
+        "words": 160205
+      },
+      {
+        "file": "217.txt",
+        "words": 160221
+      },
+      {
+        "file": "7400.txt",
+        "words": 160224
+      },
+      {
+        "file": "4301.txt",
+        "words": 160233
+      },
+      {
+        "file": "34163.txt",
+        "words": 160236
+      },
+      {
+        "file": "3437.txt",
+        "words": 160243
+      },
+      {
+        "file": "30990.txt",
+        "words": 160275
+      },
+      {
+        "file": "58591.txt",
+        "words": 160276
+      },
+      {
+        "file": "40538.txt",
+        "words": 160311
+      },
+      {
+        "file": "34615.txt",
+        "words": 160323
+      },
+      {
+        "file": "6267.txt",
+        "words": 160374
+      },
+      {
+        "file": "53792.txt",
+        "words": 160387
+      },
+      {
+        "file": "33027.txt",
+        "words": 160423
+      },
+      {
+        "file": "4476.txt",
+        "words": 160432
+      },
+      {
+        "file": "11221.txt",
+        "words": 160478
+      },
+      {
+        "file": "42061.txt",
+        "words": 160486
+      },
+      {
+        "file": "8425.txt",
+        "words": 160514
+      },
+      {
+        "file": "8826.txt",
+        "words": 160515
+      },
+      {
+        "file": "11869.txt",
+        "words": 160528
+      },
+      {
+        "file": "23639.txt",
+        "words": 160563
+      },
+      {
+        "file": "25784.txt",
+        "words": 160605
+      },
+      {
+        "file": "45734.txt",
+        "words": 160665
+      },
+      {
+        "file": "50042.txt",
+        "words": 160688
+      },
+      {
+        "file": "45839.txt",
+        "words": 160749
+      },
+      {
+        "file": "45603.txt",
+        "words": 160753
+      },
+      {
+        "file": "10114.txt",
+        "words": 160780
+      },
+      {
+        "file": "4275.txt",
+        "words": 160780
+      },
+      {
+        "file": "49045.txt",
+        "words": 160833
+      },
+      {
+        "file": "44795.txt",
+        "words": 160909
+      },
+      {
+        "file": "38566.txt",
+        "words": 160946
+      },
+      {
+        "file": "40164.txt",
+        "words": 160977
+      },
+      {
+        "file": "50747.txt",
+        "words": 161043
+      },
+      {
+        "file": "58701.txt",
+        "words": 161070
+      },
+      {
+        "file": "3891.txt",
+        "words": 161085
+      },
+      {
+        "file": "40144.txt",
+        "words": 161102
+      },
+      {
+        "file": "1371.txt",
+        "words": 161136
+      },
+      {
+        "file": "422.txt",
+        "words": 161149
+      },
+      {
+        "file": "34738.txt",
+        "words": 161175
+      },
+      {
+        "file": "29687.txt",
+        "words": 161215
+      },
+      {
+        "file": "5157.txt",
+        "words": 161229
+      },
+      {
+        "file": "24812.txt",
+        "words": 161234
+      },
+      {
+        "file": "31090.txt",
+        "words": 161242
+      },
+      {
+        "file": "48856.txt",
+        "words": 161247
+      },
+      {
+        "file": "4299.txt",
+        "words": 161266
+      },
+      {
+        "file": "41728.txt",
+        "words": 161285
+      },
+      {
+        "file": "46633.txt",
+        "words": 161310
+      },
+      {
+        "file": "24471.txt",
+        "words": 161321
+      },
+      {
+        "file": "52264.txt",
+        "words": 161348
+      },
+      {
+        "file": "37750.txt",
+        "words": 161384
+      },
+      {
+        "file": "48584.txt",
+        "words": 161396
+      },
+      {
+        "file": "16039.txt",
+        "words": 161397
+      },
+      {
+        "file": "345.txt",
+        "words": 161416
+      },
+      {
+        "file": "36904.txt",
+        "words": 161443
+      },
+      {
+        "file": "55155.txt",
+        "words": 161445
+      },
+      {
+        "file": "42393.txt",
+        "words": 161456
+      },
+      {
+        "file": "44963.txt",
+        "words": 161498
+      },
+      {
+        "file": "378.txt",
+        "words": 161503
+      },
+      {
+        "file": "6761.txt",
+        "words": 161569
+      },
+      {
+        "file": "41990.txt",
+        "words": 161574
+      },
+      {
+        "file": "51218.txt",
+        "words": 161575
+      },
+      {
+        "file": "32528.txt",
+        "words": 161576
+      },
+      {
+        "file": "49858.txt",
+        "words": 161581
+      },
+      {
+        "file": "3286.txt",
+        "words": 161656
+      },
+      {
+        "file": "55397.txt",
+        "words": 161679
+      },
+      {
+        "file": "43413.txt",
+        "words": 161747
+      },
+      {
+        "file": "28591.txt",
+        "words": 161757
+      },
+      {
+        "file": "47314.txt",
+        "words": 161761
+      },
+      {
+        "file": "52564.txt",
+        "words": 161763
+      },
+      {
+        "file": "3481.txt",
+        "words": 161800
+      },
+      {
+        "file": "3632.txt",
+        "words": 161861
+      },
+      {
+        "file": "3470.txt",
+        "words": 161886
+      },
+      {
+        "file": "56640.txt",
+        "words": 161888
+      },
+      {
+        "file": "26416.txt",
+        "words": 161916
+      },
+      {
+        "file": "4116.txt",
+        "words": 161937
+      },
+      {
+        "file": "47098.txt",
+        "words": 161956
+      },
+      {
+        "file": "12261.txt",
+        "words": 161976
+      },
+      {
+        "file": "432.txt",
+        "words": 162046
+      },
+      {
+        "file": "55905.txt",
+        "words": 162082
+      },
+      {
+        "file": "57999.txt",
+        "words": 162103
+      },
+      {
+        "file": "30590.txt",
+        "words": 162124
+      },
+      {
+        "file": "55824.txt",
+        "words": 162154
+      },
+      {
+        "file": "45235.txt",
+        "words": 162228
+      },
+      {
+        "file": "44449.txt",
+        "words": 162250
+      },
+      {
+        "file": "37827.txt",
+        "words": 162276
+      },
+      {
+        "file": "52538.txt",
+        "words": 162336
+      },
+      {
+        "file": "2084.txt",
+        "words": 162378
+      },
+      {
+        "file": "38187.txt",
+        "words": 162389
+      },
+      {
+        "file": "55122.txt",
+        "words": 162397
+      },
+      {
+        "file": "50006.txt",
+        "words": 162408
+      },
+      {
+        "file": "2707.txt",
+        "words": 162453
+      },
+      {
+        "file": "2153.txt",
+        "words": 162584
+      },
+      {
+        "file": "44406.txt",
+        "words": 162604
+      },
+      {
+        "file": "48013.txt",
+        "words": 162615
+      },
+      {
+        "file": "30190.txt",
+        "words": 162698
+      },
+      {
+        "file": "699.txt",
+        "words": 162707
+      },
+      {
+        "file": "52242.txt",
+        "words": 162802
+      },
+      {
+        "file": "56176.txt",
+        "words": 162854
+      },
+      {
+        "file": "5753.txt",
+        "words": 162973
+      },
+      {
+        "file": "49468.txt",
+        "words": 163019
+      },
+      {
+        "file": "1150.txt",
+        "words": 163020
+      },
+      {
+        "file": "55602.txt",
+        "words": 163031
+      },
+      {
+        "file": "5437.txt",
+        "words": 163049
+      },
+      {
+        "file": "35408.txt",
+        "words": 163063
+      },
+      {
+        "file": "52423.txt",
+        "words": 163089
+      },
+      {
+        "file": "50611.txt",
+        "words": 163161
+      },
+      {
+        "file": "38811.txt",
+        "words": 163200
+      },
+      {
+        "file": "23634.txt",
+        "words": 163226
+      },
+      {
+        "file": "39343.txt",
+        "words": 163237
+      },
+      {
+        "file": "50671.txt",
+        "words": 163237
+      },
+      {
+        "file": "48395.txt",
+        "words": 163257
+      },
+      {
+        "file": "55179.txt",
+        "words": 163275
+      },
+      {
+        "file": "40196.txt",
+        "words": 163304
+      },
+      {
+        "file": "30344.txt",
+        "words": 163319
+      },
+      {
+        "file": "31132.txt",
+        "words": 163341
+      },
+      {
+        "file": "47874.txt",
+        "words": 163346
+      },
+      {
+        "file": "57265.txt",
+        "words": 163348
+      },
+      {
+        "file": "31620.txt",
+        "words": 163352
+      },
+      {
+        "file": "8220.txt",
+        "words": 163353
+      },
+      {
+        "file": "44075.txt",
+        "words": 163354
+      },
+      {
+        "file": "10434.txt",
+        "words": 163396
+      },
+      {
+        "file": "47445.txt",
+        "words": 163402
+      },
+      {
+        "file": "57546.txt",
+        "words": 163464
+      },
+      {
+        "file": "35529.txt",
+        "words": 163466
+      },
+      {
+        "file": "57771.txt",
+        "words": 163472
+      },
+      {
+        "file": "43811.txt",
+        "words": 163505
+      },
+      {
+        "file": "34120.txt",
+        "words": 163554
+      },
+      {
+        "file": "42587.txt",
+        "words": 163592
+      },
+      {
+        "file": "40385.txt",
+        "words": 163620
+      },
+      {
+        "file": "39873.txt",
+        "words": 163686
+      },
+      {
+        "file": "5976.txt",
+        "words": 163700
+      },
+      {
+        "file": "32722.txt",
+        "words": 163729
+      },
+      {
+        "file": "26045.txt",
+        "words": 163751
+      },
+      {
+        "file": "36520.txt",
+        "words": 163803
+      },
+      {
+        "file": "18449.txt",
+        "words": 163836
+      },
+      {
+        "file": "51715.txt",
+        "words": 163844
+      },
+      {
+        "file": "55901.txt",
+        "words": 163860
+      },
+      {
+        "file": "30749.txt",
+        "words": 163896
+      },
+      {
+        "file": "50739.txt",
+        "words": 163910
+      },
+      {
+        "file": "5382.txt",
+        "words": 163926
+      },
+      {
+        "file": "39279.txt",
+        "words": 163943
+      },
+      {
+        "file": "24715.txt",
+        "words": 163947
+      },
+      {
+        "file": "32061.txt",
+        "words": 163965
+      },
+      {
+        "file": "50113.txt",
+        "words": 163975
+      },
+      {
+        "file": "31697.txt",
+        "words": 164000
+      },
+      {
+        "file": "3336.txt",
+        "words": 164018
+      },
+      {
+        "file": "56145.txt",
+        "words": 164060
+      },
+      {
+        "file": "24667.txt",
+        "words": 164119
+      },
+      {
+        "file": "31217.txt",
+        "words": 164140
+      },
+      {
+        "file": "35067.txt",
+        "words": 164147
+      },
+      {
+        "file": "34156.txt",
+        "words": 164267
+      },
+      {
+        "file": "42009.txt",
+        "words": 164289
+      },
+      {
+        "file": "51182.txt",
+        "words": 164302
+      },
+      {
+        "file": "40943.txt",
+        "words": 164340
+      },
+      {
+        "file": "42843.txt",
+        "words": 164380
+      },
+      {
+        "file": "38960.txt",
+        "words": 164384
+      },
+      {
+        "file": "33858.txt",
+        "words": 164402
+      },
+      {
+        "file": "10165.txt",
+        "words": 164463
+      },
+      {
+        "file": "41362.txt",
+        "words": 164472
+      },
+      {
+        "file": "48334.txt",
+        "words": 164472
+      },
+      {
+        "file": "6414.txt",
+        "words": 164476
+      },
+      {
+        "file": "47127.txt",
+        "words": 164493
+      },
+      {
+        "file": "4687.txt",
+        "words": 164532
+      },
+      {
+        "file": "38043.txt",
+        "words": 164533
+      },
+      {
+        "file": "38806.txt",
+        "words": 164565
+      },
+      {
+        "file": "54420.txt",
+        "words": 164572
+      },
+      {
+        "file": "39527.txt",
+        "words": 164616
+      },
+      {
+        "file": "52618.txt",
+        "words": 164696
+      },
+      {
+        "file": "3684.txt",
+        "words": 164774
+      },
+      {
+        "file": "48454.txt",
+        "words": 164788
+      },
+      {
+        "file": "54726.txt",
+        "words": 164794
+      },
+      {
+        "file": "3443.txt",
+        "words": 164826
+      },
+      {
+        "file": "5227.txt",
+        "words": 164885
+      },
+      {
+        "file": "49244.txt",
+        "words": 164912
+      },
+      {
+        "file": "7815.txt",
+        "words": 164921
+      },
+      {
+        "file": "34492.txt",
+        "words": 164984
+      },
+      {
+        "file": "38100.txt",
+        "words": 165022
+      },
+      {
+        "file": "8562.txt",
+        "words": 165034
+      },
+      {
+        "file": "41580.txt",
+        "words": 165041
+      },
+      {
+        "file": "52917.txt",
+        "words": 165048
+      },
+      {
+        "file": "11122.txt",
+        "words": 165088
+      },
+      {
+        "file": "53583.txt",
+        "words": 165090
+      },
+      {
+        "file": "57875.txt",
+        "words": 165092
+      },
+      {
+        "file": "4600.txt",
+        "words": 165176
+      },
+      {
+        "file": "35485.txt",
+        "words": 165180
+      },
+      {
+        "file": "8674.txt",
+        "words": 165239
+      },
+      {
+        "file": "8424.txt",
+        "words": 165256
+      },
+      {
+        "file": "41672.txt",
+        "words": 165257
+      },
+      {
+        "file": "26490.txt",
+        "words": 165337
+      },
+      {
+        "file": "51181.txt",
+        "words": 165340
+      },
+      {
+        "file": "7691.txt",
+        "words": 165418
+      },
+      {
+        "file": "31345.txt",
+        "words": 165445
+      },
+      {
+        "file": "32021.txt",
+        "words": 165466
+      },
+      {
+        "file": "58774.txt",
+        "words": 165589
+      },
+      {
+        "file": "10380.txt",
+        "words": 165633
+      },
+      {
+        "file": "40342.txt",
+        "words": 165658
+      },
+      {
+        "file": "44560.txt",
+        "words": 165673
+      },
+      {
+        "file": "44566.txt",
+        "words": 165724
+      },
+      {
+        "file": "51166.txt",
+        "words": 165726
+      },
+      {
+        "file": "34796.txt",
+        "words": 165736
+      },
+      {
+        "file": "7112.txt",
+        "words": 165765
+      },
+      {
+        "file": "43497.txt",
+        "words": 165813
+      },
+      {
+        "file": "10699.txt",
+        "words": 165875
+      },
+      {
+        "file": "41111.txt",
+        "words": 165910
+      },
+      {
+        "file": "11409.txt",
+        "words": 165915
+      },
+      {
+        "file": "43550.txt",
+        "words": 165915
+      },
+      {
+        "file": "28980.txt",
+        "words": 165955
+      },
+      {
+        "file": "43372.txt",
+        "words": 166018
+      },
+      {
+        "file": "3606.txt",
+        "words": 166074
+      },
+      {
+        "file": "53314.txt",
+        "words": 166079
+      },
+      {
+        "file": "48996.txt",
+        "words": 166182
+      },
+      {
+        "file": "43589.txt",
+        "words": 166189
+      },
+      {
+        "file": "3177.txt",
+        "words": 166194
+      },
+      {
+        "file": "30835.txt",
+        "words": 166198
+      },
+      {
+        "file": "31902.txt",
+        "words": 166246
+      },
+      {
+        "file": "6308.txt",
+        "words": 166248
+      },
+      {
+        "file": "34989.txt",
+        "words": 166336
+      },
+      {
+        "file": "7887.txt",
+        "words": 166347
+      },
+      {
+        "file": "4226.txt",
+        "words": 166352
+      },
+      {
+        "file": "41918.txt",
+        "words": 166358
+      },
+      {
+        "file": "57709.txt",
+        "words": 166412
+      },
+      {
+        "file": "52749.txt",
+        "words": 166454
+      },
+      {
+        "file": "26901.txt",
+        "words": 166481
+      },
+      {
+        "file": "43472.txt",
+        "words": 166481
+      },
+      {
+        "file": "52232.txt",
+        "words": 166556
+      },
+      {
+        "file": "50625.txt",
+        "words": 166625
+      },
+      {
+        "file": "25879.txt",
+        "words": 166718
+      },
+      {
+        "file": "35633.txt",
+        "words": 166745
+      },
+      {
+        "file": "53674.txt",
+        "words": 166774
+      },
+      {
+        "file": "55046.txt",
+        "words": 166795
+      },
+      {
+        "file": "1449.txt",
+        "words": 166796
+      },
+      {
+        "file": "34053.txt",
+        "words": 166809
+      },
+      {
+        "file": "56426.txt",
+        "words": 166831
+      },
+      {
+        "file": "28152.txt",
+        "words": 166899
+      },
+      {
+        "file": "50382.txt",
+        "words": 166936
+      },
+      {
+        "file": "39342.txt",
+        "words": 166954
+      },
+      {
+        "file": "35856.txt",
+        "words": 166956
+      },
+      {
+        "file": "28637.txt",
+        "words": 166984
+      },
+      {
+        "file": "23994.txt",
+        "words": 167054
+      },
+      {
+        "file": "45917.txt",
+        "words": 167059
+      },
+      {
+        "file": "8144.txt",
+        "words": 167088
+      },
+      {
+        "file": "47400.txt",
+        "words": 167126
+      },
+      {
+        "file": "40359.txt",
+        "words": 167142
+      },
+      {
+        "file": "41839.txt",
+        "words": 167150
+      },
+      {
+        "file": "45130.txt",
+        "words": 167157
+      },
+      {
+        "file": "3655.txt",
+        "words": 167244
+      },
+      {
+        "file": "56722.txt",
+        "words": 167276
+      },
+      {
+        "file": "55587.txt",
+        "words": 167294
+      },
+      {
+        "file": "27618.txt",
+        "words": 167305
+      },
+      {
+        "file": "6450.txt",
+        "words": 167340
+      },
+      {
+        "file": "4596.txt",
+        "words": 167371
+      },
+      {
+        "file": "48250.txt",
+        "words": 167381
+      },
+      {
+        "file": "11018.txt",
+        "words": 167433
+      },
+      {
+        "file": "34051.txt",
+        "words": 167440
+      },
+      {
+        "file": "50943.txt",
+        "words": 167482
+      },
+      {
+        "file": "47902.txt",
+        "words": 167581
+      },
+      {
+        "file": "6335.txt",
+        "words": 167603
+      },
+      {
+        "file": "34904.txt",
+        "words": 167696
+      },
+      {
+        "file": "35776.txt",
+        "words": 167706
+      },
+      {
+        "file": "28273.txt",
+        "words": 167768
+      },
+      {
+        "file": "39897.txt",
+        "words": 167782
+      },
+      {
+        "file": "35155.txt",
+        "words": 167793
+      },
+      {
+        "file": "36725.txt",
+        "words": 167800
+      },
+      {
+        "file": "51352.txt",
+        "words": 167802
+      },
+      {
+        "file": "2055.txt",
+        "words": 167829
+      },
+      {
+        "file": "10631.txt",
+        "words": 167833
+      },
+      {
+        "file": "48149.txt",
+        "words": 167902
+      },
+      {
+        "file": "51819.txt",
+        "words": 167943
+      },
+      {
+        "file": "29385.txt",
+        "words": 167968
+      },
+      {
+        "file": "43411.txt",
+        "words": 168003
+      },
+      {
+        "file": "43541.txt",
+        "words": 168051
+      },
+      {
+        "file": "11243.txt",
+        "words": 168059
+      },
+      {
+        "file": "49718.txt",
+        "words": 168066
+      },
+      {
+        "file": "34123.txt",
+        "words": 168120
+      },
+      {
+        "file": "46309.txt",
+        "words": 168204
+      },
+      {
+        "file": "57922.txt",
+        "words": 168360
+      },
+      {
+        "file": "41247.txt",
+        "words": 168410
+      },
+      {
+        "file": "4412.txt",
+        "words": 168414
+      },
+      {
+        "file": "50037.txt",
+        "words": 168421
+      },
+      {
+        "file": "49895.txt",
+        "words": 168423
+      },
+      {
+        "file": "38745.txt",
+        "words": 168454
+      },
+      {
+        "file": "10851.txt",
+        "words": 168473
+      },
+      {
+        "file": "38328.txt",
+        "words": 168551
+      },
+      {
+        "file": "43549.txt",
+        "words": 168624
+      },
+      {
+        "file": "10625.txt",
+        "words": 168657
+      },
+      {
+        "file": "38404.txt",
+        "words": 168743
+      },
+      {
+        "file": "53970.txt",
+        "words": 168749
+      },
+      {
+        "file": "4604.txt",
+        "words": 168753
+      },
+      {
+        "file": "8376.txt",
+        "words": 168773
+      },
+      {
+        "file": "1251.txt",
+        "words": 168828
+      },
+      {
+        "file": "43735.txt",
+        "words": 168836
+      },
+      {
+        "file": "43921.txt",
+        "words": 168871
+      },
+      {
+        "file": "25015.txt",
+        "words": 168878
+      },
+      {
+        "file": "32062.txt",
+        "words": 168882
+      },
+      {
+        "file": "3766.txt",
+        "words": 168905
+      },
+      {
+        "file": "34878.txt",
+        "words": 168907
+      },
+      {
+        "file": "46498.txt",
+        "words": 168948
+      },
+      {
+        "file": "49987.txt",
+        "words": 168965
+      },
+      {
+        "file": "38458.txt",
+        "words": 169004
+      },
+      {
+        "file": "36686.txt",
+        "words": 169075
+      },
+      {
+        "file": "52620.txt",
+        "words": 169104
+      },
+      {
+        "file": "10545.txt",
+        "words": 169121
+      },
+      {
+        "file": "2501.txt",
+        "words": 169136
+      },
+      {
+        "file": "36043.txt",
+        "words": 169146
+      },
+      {
+        "file": "29000.txt",
+        "words": 169160
+      },
+      {
+        "file": "54532.txt",
+        "words": 169172
+      },
+      {
+        "file": "33583.txt",
+        "words": 169184
+      },
+      {
+        "file": "57359.txt",
+        "words": 169190
+      },
+      {
+        "file": "39272.txt",
+        "words": 169194
+      },
+      {
+        "file": "49086.txt",
+        "words": 169246
+      },
+      {
+        "file": "3739.txt",
+        "words": 169255
+      },
+      {
+        "file": "43200.txt",
+        "words": 169260
+      },
+      {
+        "file": "39095.txt",
+        "words": 169276
+      },
+      {
+        "file": "38267.txt",
+        "words": 169288
+      },
+      {
+        "file": "3450.txt",
+        "words": 169293
+      },
+      {
+        "file": "25071.txt",
+        "words": 169340
+      },
+      {
+        "file": "4061.txt",
+        "words": 169363
+      },
+      {
+        "file": "34011.txt",
+        "words": 169364
+      },
+      {
+        "file": "50689.txt",
+        "words": 169409
+      },
+      {
+        "file": "31159.txt",
+        "words": 169487
+      },
+      {
+        "file": "5179.txt",
+        "words": 169487
+      },
+      {
+        "file": "47463.txt",
+        "words": 169580
+      },
+      {
+        "file": "8572.txt",
+        "words": 169653
+      },
+      {
+        "file": "49007.txt",
+        "words": 169658
+      },
+      {
+        "file": "25463.txt",
+        "words": 169672
+      },
+      {
+        "file": "51905.txt",
+        "words": 169673
+      },
+      {
+        "file": "35751.txt",
+        "words": 169703
+      },
+      {
+        "file": "55381.txt",
+        "words": 169716
+      },
+      {
+        "file": "39273.txt",
+        "words": 169729
+      },
+      {
+        "file": "39548.txt",
+        "words": 169740
+      },
+      {
+        "file": "58045.txt",
+        "words": 169752
+      },
+      {
+        "file": "47715.txt",
+        "words": 169761
+      },
+      {
+        "file": "8577.txt",
+        "words": 169797
+      },
+      {
+        "file": "54304.txt",
+        "words": 169832
+      },
+      {
+        "file": "46337.txt",
+        "words": 169962
+      },
+      {
+        "file": "4277.txt",
+        "words": 169967
+      },
+      {
+        "file": "55868.txt",
+        "words": 170023
+      },
+      {
+        "file": "38162.txt",
+        "words": 170046
+      },
+      {
+        "file": "39962.txt",
+        "words": 170050
+      },
+      {
+        "file": "1641.txt",
+        "words": 170105
+      },
+      {
+        "file": "54180.txt",
+        "words": 170210
+      },
+      {
+        "file": "2007.txt",
+        "words": 170224
+      },
+      {
+        "file": "37390.txt",
+        "words": 170230
+      },
+      {
+        "file": "48983.txt",
+        "words": 170278
+      },
+      {
+        "file": "30692.txt",
+        "words": 170289
+      },
+      {
+        "file": "45033.txt",
+        "words": 170332
+      },
+      {
+        "file": "36132.txt",
+        "words": 170377
+      },
+      {
+        "file": "46564.txt",
+        "words": 170400
+      },
+      {
+        "file": "2021.txt",
+        "words": 170418
+      },
+      {
+        "file": "33127.txt",
+        "words": 170433
+      },
+      {
+        "file": "48191.txt",
+        "words": 170436
+      },
+      {
+        "file": "45981.txt",
+        "words": 170548
+      },
+      {
+        "file": "25256.txt",
+        "words": 170549
+      },
+      {
+        "file": "2579.txt",
+        "words": 170613
+      },
+      {
+        "file": "55546.txt",
+        "words": 170624
+      },
+      {
+        "file": "52154.txt",
+        "words": 170628
+      },
+      {
+        "file": "30591.txt",
+        "words": 170649
+      },
+      {
+        "file": "51355.txt",
+        "words": 170699
+      },
+      {
+        "file": "8879.txt",
+        "words": 170707
+      },
+      {
+        "file": "52834.txt",
+        "words": 170733
+      },
+      {
+        "file": "48083.txt",
+        "words": 170745
+      },
+      {
+        "file": "2803.txt",
+        "words": 170912
+      },
+      {
+        "file": "52873.txt",
+        "words": 171103
+      },
+      {
+        "file": "32182.txt",
+        "words": 171116
+      },
+      {
+        "file": "2099.txt",
+        "words": 171140
+      },
+      {
+        "file": "57468.txt",
+        "words": 171371
+      },
+      {
+        "file": "24950.txt",
+        "words": 171409
+      },
+      {
+        "file": "38462.txt",
+        "words": 171418
+      },
+      {
+        "file": "44553.txt",
+        "words": 171511
+      },
+      {
+        "file": "7926.txt",
+        "words": 171551
+      },
+      {
+        "file": "29265.txt",
+        "words": 171555
+      },
+      {
+        "file": "47356.txt",
+        "words": 171568
+      },
+      {
+        "file": "50462.txt",
+        "words": 171573
+      },
+      {
+        "file": "42388.txt",
+        "words": 171595
+      },
+      {
+        "file": "27450.txt",
+        "words": 171617
+      },
+      {
+        "file": "3449.txt",
+        "words": 171626
+      },
+      {
+        "file": "53300.txt",
+        "words": 171677
+      },
+      {
+        "file": "36159.txt",
+        "words": 171682
+      },
+      {
+        "file": "29340.txt",
+        "words": 171702
+      },
+      {
+        "file": "30802.txt",
+        "words": 171742
+      },
+      {
+        "file": "56171.txt",
+        "words": 171873
+      },
+      {
+        "file": "48138.txt",
+        "words": 171885
+      },
+      {
+        "file": "49403.txt",
+        "words": 171887
+      },
+      {
+        "file": "2275.txt",
+        "words": 171917
+      },
+      {
+        "file": "37887.txt",
+        "words": 171938
+      },
+      {
+        "file": "43656.txt",
+        "words": 172042
+      },
+      {
+        "file": "16217.txt",
+        "words": 172060
+      },
+      {
+        "file": "53744.txt",
+        "words": 172078
+      },
+      {
+        "file": "34698.txt",
+        "words": 172087
+      },
+      {
+        "file": "12077.txt",
+        "words": 172105
+      },
+      {
+        "file": "10330.txt",
+        "words": 172151
+      },
+      {
+        "file": "58394.txt",
+        "words": 172153
+      },
+      {
+        "file": "57247.txt",
+        "words": 172163
+      },
+      {
+        "file": "52212.txt",
+        "words": 172167
+      },
+      {
+        "file": "28074.txt",
+        "words": 172177
+      },
+      {
+        "file": "42336.txt",
+        "words": 172216
+      },
+      {
+        "file": "50624.txt",
+        "words": 172220
+      },
+      {
+        "file": "56280.txt",
+        "words": 172233
+      },
+      {
+        "file": "7005.txt",
+        "words": 172253
+      },
+      {
+        "file": "4246.txt",
+        "words": 172259
+      },
+      {
+        "file": "53153.txt",
+        "words": 172260
+      },
+      {
+        "file": "5364.txt",
+        "words": 172302
+      },
+      {
+        "file": "51815.txt",
+        "words": 172342
+      },
+      {
+        "file": "47943.txt",
+        "words": 172343
+      },
+      {
+        "file": "55125.txt",
+        "words": 172386
+      },
+      {
+        "file": "50630.txt",
+        "words": 172391
+      },
+      {
+        "file": "7623.txt",
+        "words": 172419
+      },
+      {
+        "file": "7174.txt",
+        "words": 172499
+      },
+      {
+        "file": "8000.txt",
+        "words": 172581
+      },
+      {
+        "file": "4860.txt",
+        "words": 172585
+      },
+      {
+        "file": "2617.txt",
+        "words": 172601
+      },
+      {
+        "file": "10692.txt",
+        "words": 172728
+      },
+      {
+        "file": "36433.txt",
+        "words": 172734
+      },
+      {
+        "file": "3320.txt",
+        "words": 172802
+      },
+      {
+        "file": "50858.txt",
+        "words": 172831
+      },
+      {
+        "file": "56167.txt",
+        "words": 172850
+      },
+      {
+        "file": "23494.txt",
+        "words": 172913
+      },
+      {
+        "file": "31901.txt",
+        "words": 172914
+      },
+      {
+        "file": "43396.txt",
+        "words": 172917
+      },
+      {
+        "file": "7254.txt",
+        "words": 172929
+      },
+      {
+        "file": "54106.txt",
+        "words": 172930
+      },
+      {
+        "file": "58324.txt",
+        "words": 172953
+      },
+      {
+        "file": "42046.txt",
+        "words": 173017
+      },
+      {
+        "file": "42909.txt",
+        "words": 173034
+      },
+      {
+        "file": "1938.txt",
+        "words": 173079
+      },
+      {
+        "file": "34506.txt",
+        "words": 173177
+      },
+      {
+        "file": "52203.txt",
+        "words": 173186
+      },
+      {
+        "file": "29787.txt",
+        "words": 173190
+      },
+      {
+        "file": "41477.txt",
+        "words": 173190
+      },
+      {
+        "file": "10064.txt",
+        "words": 173196
+      },
+      {
+        "file": "29270.txt",
+        "words": 173203
+      },
+      {
+        "file": "35473.txt",
+        "words": 173207
+      },
+      {
+        "file": "40295.txt",
+        "words": 173238
+      },
+      {
+        "file": "51250.txt",
+        "words": 173247
+      },
+      {
+        "file": "42025.txt",
+        "words": 173264
+      },
+      {
+        "file": "7639.txt",
+        "words": 173316
+      },
+      {
+        "file": "57176.txt",
+        "words": 173324
+      },
+      {
+        "file": "24504.txt",
+        "words": 173370
+      },
+      {
+        "file": "39634.txt",
+        "words": 173383
+      },
+      {
+        "file": "37573.txt",
+        "words": 173628
+      },
+      {
+        "file": "34485.txt",
+        "words": 173649
+      },
+      {
+        "file": "4215.txt",
+        "words": 173657
+      },
+      {
+        "file": "36648.txt",
+        "words": 173734
+      },
+      {
+        "file": "49859.txt",
+        "words": 173811
+      },
+      {
+        "file": "19104.txt",
+        "words": 173962
+      },
+      {
+        "file": "50342.txt",
+        "words": 174008
+      },
+      {
+        "file": "48225.txt",
+        "words": 174036
+      },
+      {
+        "file": "54048.txt",
+        "words": 174129
+      },
+      {
+        "file": "2590.txt",
+        "words": 174131
+      },
+      {
+        "file": "48816.txt",
+        "words": 174158
+      },
+      {
+        "file": "40971.txt",
+        "words": 174172
+      },
+      {
+        "file": "51702.txt",
+        "words": 174180
+      },
+      {
+        "file": "39519.txt",
+        "words": 174194
+      },
+      {
+        "file": "58288.txt",
+        "words": 174242
+      },
+      {
+        "file": "6406.txt",
+        "words": 174247
+      },
+      {
+        "file": "42238.txt",
+        "words": 174258
+      },
+      {
+        "file": "48193.txt",
+        "words": 174264
+      },
+      {
+        "file": "35295.txt",
+        "words": 174329
+      },
+      {
+        "file": "18379.txt",
+        "words": 174379
+      },
+      {
+        "file": "54778.txt",
+        "words": 174386
+      },
+      {
+        "file": "46327.txt",
+        "words": 174425
+      },
+      {
+        "file": "31698.txt",
+        "words": 174467
+      },
+      {
+        "file": "8201.txt",
+        "words": 174520
+      },
+      {
+        "file": "56177.txt",
+        "words": 174580
+      },
+      {
+        "file": "56734.txt",
+        "words": 174586
+      },
+      {
+        "file": "3435.txt",
+        "words": 174632
+      },
+      {
+        "file": "35650.txt",
+        "words": 174671
+      },
+      {
+        "file": "48132.txt",
+        "words": 174673
+      },
+      {
+        "file": "44822.txt",
+        "words": 174685
+      },
+      {
+        "file": "39775.txt",
+        "words": 174704
+      },
+      {
+        "file": "41910.txt",
+        "words": 174731
+      },
+      {
+        "file": "2351.txt",
+        "words": 174734
+      },
+      {
+        "file": "40140.txt",
+        "words": 174748
+      },
+      {
+        "file": "43442.txt",
+        "words": 174800
+      },
+      {
+        "file": "56119.txt",
+        "words": 174821
+      },
+      {
+        "file": "40960.txt",
+        "words": 174838
+      },
+      {
+        "file": "55734.txt",
+        "words": 174880
+      },
+      {
+        "file": "11366.txt",
+        "words": 174891
+      },
+      {
+        "file": "29583.txt",
+        "words": 174946
+      },
+      {
+        "file": "38116.txt",
+        "words": 174950
+      },
+      {
+        "file": "24777.txt",
+        "words": 175085
+      },
+      {
+        "file": "55608.txt",
+        "words": 175166
+      },
+      {
+        "file": "34791.txt",
+        "words": 175182
+      },
+      {
+        "file": "32300.txt",
+        "words": 175235
+      },
+      {
+        "file": "48772.txt",
+        "words": 175243
+      },
+      {
+        "file": "5355.txt",
+        "words": 175265
+      },
+      {
+        "file": "31666.txt",
+        "words": 175268
+      },
+      {
+        "file": "4434.txt",
+        "words": 175269
+      },
+      {
+        "file": "32183.txt",
+        "words": 175319
+      },
+      {
+        "file": "32340.txt",
+        "words": 175337
+      },
+      {
+        "file": "58565.txt",
+        "words": 175348
+      },
+      {
+        "file": "34840.txt",
+        "words": 175391
+      },
+      {
+        "file": "40702.txt",
+        "words": 175471
+      },
+      {
+        "file": "3439.txt",
+        "words": 175571
+      },
+      {
+        "file": "40936.txt",
+        "words": 175583
+      },
+      {
+        "file": "43590.txt",
+        "words": 175667
+      },
+      {
+        "file": "32848.txt",
+        "words": 175802
+      },
+      {
+        "file": "6737.txt",
+        "words": 175871
+      },
+      {
+        "file": "7295.txt",
+        "words": 175935
+      },
+      {
+        "file": "2044.txt",
+        "words": 175977
+      },
+      {
+        "file": "5433.txt",
+        "words": 176016
+      },
+      {
+        "file": "51661.txt",
+        "words": 176072
+      },
+      {
+        "file": "42334.txt",
+        "words": 176128
+      },
+      {
+        "file": "34858.txt",
+        "words": 176159
+      },
+      {
+        "file": "45961.txt",
+        "words": 176161
+      },
+      {
+        "file": "8531.txt",
+        "words": 176226
+      },
+      {
+        "file": "45153.txt",
+        "words": 176235
+      },
+      {
+        "file": "47475.txt",
+        "words": 176255
+      },
+      {
+        "file": "56217.txt",
+        "words": 176265
+      },
+      {
+        "file": "4627.txt",
+        "words": 176311
+      },
+      {
+        "file": "33550.txt",
+        "words": 176370
+      },
+      {
+        "file": "34298.txt",
+        "words": 176440
+      },
+      {
+        "file": "39127.txt",
+        "words": 176483
+      },
+      {
+        "file": "30646.txt",
+        "words": 176590
+      },
+      {
+        "file": "42560.txt",
+        "words": 176620
+      },
+      {
+        "file": "45792.txt",
+        "words": 176654
+      },
+      {
+        "file": "4912.txt",
+        "words": 176670
+      },
+      {
+        "file": "38876.txt",
+        "words": 176733
+      },
+      {
+        "file": "37596.txt",
+        "words": 176740
+      },
+      {
+        "file": "33614.txt",
+        "words": 176819
+      },
+      {
+        "file": "29091.txt",
+        "words": 176849
+      },
+      {
+        "file": "2440.txt",
+        "words": 176851
+      },
+      {
+        "file": "4847.txt",
+        "words": 176869
+      },
+      {
+        "file": "38779.txt",
+        "words": 176888
+      },
+      {
+        "file": "46883.txt",
+        "words": 176921
+      },
+      {
+        "file": "25901.txt",
+        "words": 176959
+      },
+      {
+        "file": "55147.txt",
+        "words": 176976
+      },
+      {
+        "file": "28641.txt",
+        "words": 177067
+      },
+      {
+        "file": "42279.txt",
+        "words": 177109
+      },
+      {
+        "file": "55308.txt",
+        "words": 177130
+      },
+      {
+        "file": "10807.txt",
+        "words": 177193
+      },
+      {
+        "file": "41355.txt",
+        "words": 177219
+      },
+      {
+        "file": "35930.txt",
+        "words": 177283
+      },
+      {
+        "file": "1880.txt",
+        "words": 177306
+      },
+      {
+        "file": "35925.txt",
+        "words": 177432
+      },
+      {
+        "file": "34019.txt",
+        "words": 177491
+      },
+      {
+        "file": "29902.txt",
+        "words": 177493
+      },
+      {
+        "file": "49224.txt",
+        "words": 177604
+      },
+      {
+        "file": "11579.txt",
+        "words": 177639
+      },
+      {
+        "file": "50329.txt",
+        "words": 177725
+      },
+      {
+        "file": "49276.txt",
+        "words": 177787
+      },
+      {
+        "file": "51252.txt",
+        "words": 177860
+      },
+      {
+        "file": "33451.txt",
+        "words": 177871
+      },
+      {
+        "file": "50298.txt",
+        "words": 177939
+      },
+      {
+        "file": "36106.txt",
+        "words": 177940
+      },
+      {
+        "file": "42224.txt",
+        "words": 177944
+      },
+      {
+        "file": "10350.txt",
+        "words": 178062
+      },
+      {
+        "file": "54331.txt",
+        "words": 178066
+      },
+      {
+        "file": "56528.txt",
+        "words": 178118
+      },
+      {
+        "file": "41799.txt",
+        "words": 178142
+      },
+      {
+        "file": "46764.txt",
+        "words": 178166
+      },
+      {
+        "file": "4553.txt",
+        "words": 178236
+      },
+      {
+        "file": "50448.txt",
+        "words": 178272
+      },
+      {
+        "file": "35558.txt",
+        "words": 178276
+      },
+      {
+        "file": "29854.txt",
+        "words": 178311
+      },
+      {
+        "file": "42593.txt",
+        "words": 178314
+      },
+      {
+        "file": "25700.txt",
+        "words": 178323
+      },
+      {
+        "file": "35901.txt",
+        "words": 178338
+      },
+      {
+        "file": "36484.txt",
+        "words": 178370
+      },
+      {
+        "file": "45463.txt",
+        "words": 178437
+      },
+      {
+        "file": "38941.txt",
+        "words": 178485
+      },
+      {
+        "file": "54257.txt",
+        "words": 178514
+      },
+      {
+        "file": "39465.txt",
+        "words": 178578
+      },
+      {
+        "file": "54365.txt",
+        "words": 178691
+      },
+      {
+        "file": "43945.txt",
+        "words": 178716
+      },
+      {
+        "file": "36644.txt",
+        "words": 178770
+      },
+      {
+        "file": "42632.txt",
+        "words": 178793
+      },
+      {
+        "file": "58812.txt",
+        "words": 178806
+      },
+      {
+        "file": "34819.txt",
+        "words": 178849
+      },
+      {
+        "file": "51259.txt",
+        "words": 178885
+      },
+      {
+        "file": "1079.txt",
+        "words": 178927
+      },
+      {
+        "file": "31855.txt",
+        "words": 178956
+      },
+      {
+        "file": "44312.txt",
+        "words": 178990
+      },
+      {
+        "file": "20749.txt",
+        "words": 178992
+      },
+      {
+        "file": "8409.txt",
+        "words": 179079
+      },
+      {
+        "file": "32424.txt",
+        "words": 179155
+      },
+      {
+        "file": "3668.txt",
+        "words": 179162
+      },
+      {
+        "file": "43340.txt",
+        "words": 179163
+      },
+      {
+        "file": "50768.txt",
+        "words": 179240
+      },
+      {
+        "file": "51898.txt",
+        "words": 179310
+      },
+      {
+        "file": "50206.txt",
+        "words": 179312
+      },
+      {
+        "file": "44292.txt",
+        "words": 179386
+      },
+      {
+        "file": "10905.txt",
+        "words": 179393
+      },
+      {
+        "file": "2616.txt",
+        "words": 179402
+      },
+      {
+        "file": "28729.txt",
+        "words": 179407
+      },
+      {
+        "file": "34345.txt",
+        "words": 179440
+      },
+      {
+        "file": "11034.txt",
+        "words": 179469
+      },
+      {
+        "file": "8880.txt",
+        "words": 179473
+      },
+      {
+        "file": "4917.txt",
+        "words": 179500
+      },
+      {
+        "file": "4389.txt",
+        "words": 179586
+      },
+      {
+        "file": "55785.txt",
+        "words": 179596
+      },
+      {
+        "file": "26361.txt",
+        "words": 179615
+      },
+      {
+        "file": "7630.txt",
+        "words": 179633
+      },
+      {
+        "file": "54076.txt",
+        "words": 179641
+      },
+      {
+        "file": "48675.txt",
+        "words": 179741
+      },
+      {
+        "file": "35747.txt",
+        "words": 179744
+      },
+      {
+        "file": "7735.txt",
+        "words": 179787
+      },
+      {
+        "file": "50439.txt",
+        "words": 179805
+      },
+      {
+        "file": "7827.txt",
+        "words": 179842
+      },
+      {
+        "file": "45580.txt",
+        "words": 179880
+      },
+      {
+        "file": "49818.txt",
+        "words": 179919
+      },
+      {
+        "file": "43056.txt",
+        "words": 179964
+      },
+      {
+        "file": "54394.txt",
+        "words": 179964
+      },
+      {
+        "file": "6364.txt",
+        "words": 179987
+      },
+      {
+        "file": "56597.txt",
+        "words": 180029
+      },
+      {
+        "file": "4796.txt",
+        "words": 180057
+      },
+      {
+        "file": "38326.txt",
+        "words": 180122
+      },
+      {
+        "file": "49065.txt",
+        "words": 180182
+      },
+      {
+        "file": "2514.txt",
+        "words": 180203
+      },
+      {
+        "file": "46041.txt",
+        "words": 180225
+      },
+      {
+        "file": "2433.txt",
+        "words": 180300
+      },
+      {
+        "file": "39531.txt",
+        "words": 180326
+      },
+      {
+        "file": "40615.txt",
+        "words": 180339
+      },
+      {
+        "file": "35595.txt",
+        "words": 180355
+      },
+      {
+        "file": "31156.txt",
+        "words": 180375
+      },
+      {
+        "file": "3780.txt",
+        "words": 180380
+      },
+      {
+        "file": "5999.txt",
+        "words": 180383
+      },
+      {
+        "file": "32533.txt",
+        "words": 180405
+      },
+      {
+        "file": "3761.txt",
+        "words": 180434
+      },
+      {
+        "file": "5274.txt",
+        "words": 180508
+      },
+      {
+        "file": "3424.txt",
+        "words": 180518
+      },
+      {
+        "file": "4209.txt",
+        "words": 180570
+      },
+      {
+        "file": "203.txt",
+        "words": 180617
+      },
+      {
+        "file": "56506.txt",
+        "words": 180688
+      },
+      {
+        "file": "43654.txt",
+        "words": 180700
+      },
+      {
+        "file": "1396.txt",
+        "words": 180733
+      },
+      {
+        "file": "3744.txt",
+        "words": 180750
+      },
+      {
+        "file": "55070.txt",
+        "words": 180779
+      },
+      {
+        "file": "50854.txt",
+        "words": 180855
+      },
+      {
+        "file": "4823.txt",
+        "words": 180909
+      },
+      {
+        "file": "46614.txt",
+        "words": 180911
+      },
+      {
+        "file": "38677.txt",
+        "words": 180932
+      },
+      {
+        "file": "45887.txt",
+        "words": 180999
+      },
+      {
+        "file": "52286.txt",
+        "words": 181189
+      },
+      {
+        "file": "50426.txt",
+        "words": 181222
+      },
+      {
+        "file": "2034.txt",
+        "words": 181290
+      },
+      {
+        "file": "3444.txt",
+        "words": 181297
+      },
+      {
+        "file": "40882.txt",
+        "words": 181305
+      },
+      {
+        "file": "890.txt",
+        "words": 181330
+      },
+      {
+        "file": "8134.txt",
+        "words": 181406
+      },
+      {
+        "file": "6407.txt",
+        "words": 181463
+      },
+      {
+        "file": "34922.txt",
+        "words": 181473
+      },
+      {
+        "file": "4276.txt",
+        "words": 181552
+      },
+      {
+        "file": "56168.txt",
+        "words": 181560
+      },
+      {
+        "file": "24664.txt",
+        "words": 181611
+      },
+      {
+        "file": "57548.txt",
+        "words": 181830
+      },
+      {
+        "file": "30714.txt",
+        "words": 181848
+      },
+      {
+        "file": "36483.txt",
+        "words": 181912
+      },
+      {
+        "file": "3292.txt",
+        "words": 181919
+      },
+      {
+        "file": "4205.txt",
+        "words": 181935
+      },
+      {
+        "file": "5826.txt",
+        "words": 182054
+      },
+      {
+        "file": "36406.txt",
+        "words": 182064
+      },
+      {
+        "file": "28257.txt",
+        "words": 182111
+      },
+      {
+        "file": "41343.txt",
+        "words": 182115
+      },
+      {
+        "file": "55776.txt",
+        "words": 182133
+      },
+      {
+        "file": "40097.txt",
+        "words": 182145
+      },
+      {
+        "file": "49128.txt",
+        "words": 182173
+      },
+      {
+        "file": "45759.txt",
+        "words": 182199
+      },
+      {
+        "file": "41747.txt",
+        "words": 182236
+      },
+      {
+        "file": "28463.txt",
+        "words": 182267
+      },
+      {
+        "file": "38958.txt",
+        "words": 182299
+      },
+      {
+        "file": "58325.txt",
+        "words": 182307
+      },
+      {
+        "file": "47849.txt",
+        "words": 182332
+      },
+      {
+        "file": "47822.txt",
+        "words": 182738
+      },
+      {
+        "file": "10610.txt",
+        "words": 182744
+      },
+      {
+        "file": "42844.txt",
+        "words": 182793
+      },
+      {
+        "file": "52560.txt",
+        "words": 182816
+      },
+      {
+        "file": "7234.txt",
+        "words": 182859
+      },
+      {
+        "file": "24923.txt",
+        "words": 182955
+      },
+      {
+        "file": "42824.txt",
+        "words": 182987
+      },
+      {
+        "file": "35687.txt",
+        "words": 183032
+      },
+      {
+        "file": "42715.txt",
+        "words": 183095
+      },
+      {
+        "file": "47244.txt",
+        "words": 183111
+      },
+      {
+        "file": "44410.txt",
+        "words": 183139
+      },
+      {
+        "file": "46645.txt",
+        "words": 183255
+      },
+      {
+        "file": "41253.txt",
+        "words": 183304
+      },
+      {
+        "file": "49473.txt",
+        "words": 183331
+      },
+      {
+        "file": "40863.txt",
+        "words": 183332
+      },
+      {
+        "file": "29244.txt",
+        "words": 183378
+      },
+      {
+        "file": "51428.txt",
+        "words": 183417
+      },
+      {
+        "file": "12464.txt",
+        "words": 183462
+      },
+      {
+        "file": "6961.txt",
+        "words": 183607
+      },
+      {
+        "file": "58582.txt",
+        "words": 183694
+      },
+      {
+        "file": "46229.txt",
+        "words": 183741
+      },
+      {
+        "file": "36723.txt",
+        "words": 183800
+      },
+      {
+        "file": "5493.txt",
+        "words": 183800
+      },
+      {
+        "file": "45041.txt",
+        "words": 183851
+      },
+      {
+        "file": "7853.txt",
+        "words": 183853
+      },
+      {
+        "file": "48967.txt",
+        "words": 183860
+      },
+      {
+        "file": "45376.txt",
+        "words": 183870
+      },
+      {
+        "file": "58209.txt",
+        "words": 184009
+      },
+      {
+        "file": "2088.txt",
+        "words": 184057
+      },
+      {
+        "file": "46848.txt",
+        "words": 184063
+      },
+      {
+        "file": "45038.txt",
+        "words": 184190
+      },
+      {
+        "file": "36962.txt",
+        "words": 184207
+      },
+      {
+        "file": "32474.txt",
+        "words": 184226
+      },
+      {
+        "file": "56039.txt",
+        "words": 184239
+      },
+      {
+        "file": "42173.txt",
+        "words": 184263
+      },
+      {
+        "file": "40641.txt",
+        "words": 184345
+      },
+      {
+        "file": "44685.txt",
+        "words": 184348
+      },
+      {
+        "file": "7077.txt",
+        "words": 184368
+      },
+      {
+        "file": "26568.txt",
+        "words": 184387
+      },
+      {
+        "file": "49604.txt",
+        "words": 184415
+      },
+      {
+        "file": "1400.txt",
+        "words": 184420
+      },
+      {
+        "file": "2610.txt",
+        "words": 184478
+      },
+      {
+        "file": "28681.txt",
+        "words": 184488
+      },
+      {
+        "file": "7701.txt",
+        "words": 184516
+      },
+      {
+        "file": "41196.txt",
+        "words": 184627
+      },
+      {
+        "file": "58119.txt",
+        "words": 184725
+      },
+      {
+        "file": "42538.txt",
+        "words": 184735
+      },
+      {
+        "file": "49038.txt",
+        "words": 184779
+      },
+      {
+        "file": "52388.txt",
+        "words": 184867
+      },
+      {
+        "file": "34361.txt",
+        "words": 184881
+      },
+      {
+        "file": "4420.txt",
+        "words": 184915
+      },
+      {
+        "file": "35441.txt",
+        "words": 184934
+      },
+      {
+        "file": "31829.txt",
+        "words": 184937
+      },
+      {
+        "file": "52303.txt",
+        "words": 184975
+      },
+      {
+        "file": "5449.txt",
+        "words": 184991
+      },
+      {
+        "file": "43655.txt",
+        "words": 184992
+      },
+      {
+        "file": "49850.txt",
+        "words": 185020
+      },
+      {
+        "file": "50491.txt",
+        "words": 185150
+      },
+      {
+        "file": "30941.txt",
+        "words": 185269
+      },
+      {
+        "file": "7927.txt",
+        "words": 185294
+      },
+      {
+        "file": "5964.txt",
+        "words": 185345
+      },
+      {
+        "file": "54903.txt",
+        "words": 185460
+      },
+      {
+        "file": "1260.txt",
+        "words": 185466
+      },
+      {
+        "file": "21249.txt",
+        "words": 185504
+      },
+      {
+        "file": "31641.txt",
+        "words": 185514
+      },
+      {
+        "file": "42981.txt",
+        "words": 185606
+      },
+      {
+        "file": "36896.txt",
+        "words": 185717
+      },
+      {
+        "file": "53707.txt",
+        "words": 185742
+      },
+      {
+        "file": "1709.txt",
+        "words": 185815
+      },
+      {
+        "file": "41902.txt",
+        "words": 185837
+      },
+      {
+        "file": "3389.txt",
+        "words": 185840
+      },
+      {
+        "file": "40370.txt",
+        "words": 185886
+      },
+      {
+        "file": "28948.txt",
+        "words": 185890
+      },
+      {
+        "file": "11039.txt",
+        "words": 185914
+      },
+      {
+        "file": "34082.txt",
+        "words": 185929
+      },
+      {
+        "file": "42414.txt",
+        "words": 185970
+      },
+      {
+        "file": "11956.txt",
+        "words": 186034
+      },
+      {
+        "file": "52766.txt",
+        "words": 186041
+      },
+      {
+        "file": "514.txt",
+        "words": 186066
+      },
+      {
+        "file": "2516.txt",
+        "words": 186079
+      },
+      {
+        "file": "7079.txt",
+        "words": 186081
+      },
+      {
+        "file": "24678.txt",
+        "words": 186109
+      },
+      {
+        "file": "26495.txt",
+        "words": 186167
+      },
+      {
+        "file": "39232.txt",
+        "words": 186202
+      },
+      {
+        "file": "58746.txt",
+        "words": 186250
+      },
+      {
+        "file": "621.txt",
+        "words": 186376
+      },
+      {
+        "file": "56363.txt",
+        "words": 186399
+      },
+      {
+        "file": "44886.txt",
+        "words": 186567
+      },
+      {
+        "file": "4811.txt",
+        "words": 186580
+      },
+      {
+        "file": "1606.txt",
+        "words": 186676
+      },
+      {
+        "file": "39632.txt",
+        "words": 186679
+      },
+      {
+        "file": "11242.txt",
+        "words": 186697
+      },
+      {
+        "file": "57450.txt",
+        "words": 186738
+      },
+      {
+        "file": "34822.txt",
+        "words": 186768
+      },
+      {
+        "file": "41549.txt",
+        "words": 186825
+      },
+      {
+        "file": "54218.txt",
+        "words": 186869
+      },
+      {
+        "file": "50832.txt",
+        "words": 186872
+      },
+      {
+        "file": "3666.txt",
+        "words": 186948
+      },
+      {
+        "file": "50228.txt",
+        "words": 187007
+      },
+      {
+        "file": "45131.txt",
+        "words": 187108
+      },
+      {
+        "file": "52069.txt",
+        "words": 187115
+      },
+      {
+        "file": "35873.txt",
+        "words": 187185
+      },
+      {
+        "file": "8374.txt",
+        "words": 187248
+      },
+      {
+        "file": "4884.txt",
+        "words": 187257
+      },
+      {
+        "file": "18590.txt",
+        "words": 187297
+      },
+      {
+        "file": "49061.txt",
+        "words": 187346
+      },
+      {
+        "file": "2994.txt",
+        "words": 187384
+      },
+      {
+        "file": "43103.txt",
+        "words": 187410
+      },
+      {
+        "file": "32783.txt",
+        "words": 187494
+      },
+      {
+        "file": "43412.txt",
+        "words": 187567
+      },
+      {
+        "file": "34047.txt",
+        "words": 187659
+      },
+      {
+        "file": "1252.txt",
+        "words": 187746
+      },
+      {
+        "file": "2895.txt",
+        "words": 187753
+      },
+      {
+        "file": "19397.txt",
+        "words": 187763
+      },
+      {
+        "file": "5460.txt",
+        "words": 187767
+      },
+      {
+        "file": "57803.txt",
+        "words": 187768
+      },
+      {
+        "file": "51903.txt",
+        "words": 187796
+      },
+      {
+        "file": "1684.txt",
+        "words": 187823
+      },
+      {
+        "file": "40868.txt",
+        "words": 187840
+      },
+      {
+        "file": "58462.txt",
+        "words": 187894
+      },
+      {
+        "file": "44000.txt",
+        "words": 187969
+      },
+      {
+        "file": "27571.txt",
+        "words": 187986
+      },
+      {
+        "file": "45469.txt",
+        "words": 188101
+      },
+      {
+        "file": "51314.txt",
+        "words": 188127
+      },
+      {
+        "file": "58809.txt",
+        "words": 188134
+      },
+      {
+        "file": "57826.txt",
+        "words": 188172
+      },
+      {
+        "file": "38539.txt",
+        "words": 188246
+      },
+      {
+        "file": "45423.txt",
+        "words": 188269
+      },
+      {
+        "file": "7463.txt",
+        "words": 188346
+      },
+      {
+        "file": "45788.txt",
+        "words": 188350
+      },
+      {
+        "file": "8519.txt",
+        "words": 188395
+      },
+      {
+        "file": "40151.txt",
+        "words": 188473
+      },
+      {
+        "file": "2370.txt",
+        "words": 188474
+      },
+      {
+        "file": "4210.txt",
+        "words": 188486
+      },
+      {
+        "file": "49795.txt",
+        "words": 188516
+      },
+      {
+        "file": "38304.txt",
+        "words": 188530
+      },
+      {
+        "file": "2511.txt",
+        "words": 188538
+      },
+      {
+        "file": "48770.txt",
+        "words": 188610
+      },
+      {
+        "file": "27698.txt",
+        "words": 188613
+      },
+      {
+        "file": "29054.txt",
+        "words": 188721
+      },
+      {
+        "file": "40336.txt",
+        "words": 188722
+      },
+      {
+        "file": "10892.txt",
+        "words": 188908
+      },
+      {
+        "file": "42602.txt",
+        "words": 188916
+      },
+      {
+        "file": "58614.txt",
+        "words": 188933
+      },
+      {
+        "file": "11729.txt",
+        "words": 188984
+      },
+      {
+        "file": "11251.txt",
+        "words": 188991
+      },
+      {
+        "file": "43358.txt",
+        "words": 189047
+      },
+      {
+        "file": "41720.txt",
+        "words": 189094
+      },
+      {
+        "file": "20124.txt",
+        "words": 189095
+      },
+      {
+        "file": "42855.txt",
+        "words": 189146
+      },
+      {
+        "file": "3072.txt",
+        "words": 189190
+      },
+      {
+        "file": "28957.txt",
+        "words": 189281
+      },
+      {
+        "file": "43084.txt",
+        "words": 189302
+      },
+      {
+        "file": "2609.txt",
+        "words": 189312
+      },
+      {
+        "file": "40940.txt",
+        "words": 189313
+      },
+      {
+        "file": "6130.txt",
+        "words": 189452
+      },
+      {
+        "file": "4028.txt",
+        "words": 189675
+      },
+      {
+        "file": "39227.txt",
+        "words": 189676
+      },
+      {
+        "file": "41164.txt",
+        "words": 189749
+      },
+      {
+        "file": "39975.txt",
+        "words": 189836
+      },
+      {
+        "file": "58486.txt",
+        "words": 189846
+      },
+      {
+        "file": "33750.txt",
+        "words": 189856
+      },
+      {
+        "file": "48995.txt",
+        "words": 189878
+      },
+      {
+        "file": "10351.txt",
+        "words": 189912
+      },
+      {
+        "file": "5240.txt",
+        "words": 189987
+      },
+      {
+        "file": "56942.txt",
+        "words": 190047
+      },
+      {
+        "file": "7658.txt",
+        "words": 190287
+      },
+      {
+        "file": "4537.txt",
+        "words": 190401
+      },
+      {
+        "file": "815.txt",
+        "words": 190498
+      },
+      {
+        "file": "57846.txt",
+        "words": 190556
+      },
+      {
+        "file": "50401.txt",
+        "words": 190562
+      },
+      {
+        "file": "4085.txt",
+        "words": 190623
+      },
+      {
+        "file": "37160.txt",
+        "words": 190695
+      },
+      {
+        "file": "32190.txt",
+        "words": 190828
+      },
+      {
+        "file": "52466.txt",
+        "words": 190924
+      },
+      {
+        "file": "57785.txt",
+        "words": 190935
+      },
+      {
+        "file": "40679.txt",
+        "words": 190941
+      },
+      {
+        "file": "11329.txt",
+        "words": 190948
+      },
+      {
+        "file": "39745.txt",
+        "words": 191084
+      },
+      {
+        "file": "55593.txt",
+        "words": 191151
+      },
+      {
+        "file": "31375.txt",
+        "words": 191203
+      },
+      {
+        "file": "58086.txt",
+        "words": 191212
+      },
+      {
+        "file": "34121.txt",
+        "words": 191258
+      },
+      {
+        "file": "51487.txt",
+        "words": 191260
+      },
+      {
+        "file": "50560.txt",
+        "words": 191391
+      },
+      {
+        "file": "82.txt",
+        "words": 191472
+      },
+      {
+        "file": "38655.txt",
+        "words": 191518
+      },
+      {
+        "file": "10343.txt",
+        "words": 191604
+      },
+      {
+        "file": "40938.txt",
+        "words": 191612
+      },
+      {
+        "file": "34162.txt",
+        "words": 191618
+      },
+      {
+        "file": "5373.txt",
+        "words": 191671
+      },
+      {
+        "file": "49786.txt",
+        "words": 191736
+      },
+      {
+        "file": "42342.txt",
+        "words": 191809
+      },
+      {
+        "file": "8720.txt",
+        "words": 191833
+      },
+      {
+        "file": "55727.txt",
+        "words": 191845
+      },
+      {
+        "file": "39711.txt",
+        "words": 191860
+      }
+    ]
+  }
+}
